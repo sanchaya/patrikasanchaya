@@ -1,0 +1,100 @@
+[2021-04-12 16:51:30 +0530 nodejs (2528)] INFO : Starting the New Relic agent version 6.4.0.356 in "production" environment.
+[2021-04-12 16:51:30 +0530 nodejs (2528)] INFO : To prevent agent startup add a NEW_RELIC_AGENT_ENABLED=false environment variable or modify the "production" section of your newrelic.yml.
+[2021-04-12 16:51:30 +0530 nodejs (2528)] WARN : No configuration file found. Working directory = /home/patrike/rails_apps/current
+[2021-04-12 16:51:30 +0530 nodejs (2528)] WARN : Looked in these locations (based on defaults): /home/patrike/rails_apps/current/config/newrelic.yml, /home/patrike/rails_apps/current/newrelic.yml, /home/patrike/rails_apps/current/config/newrelic.yml, /home/patrike/rails_apps/current/newrelic.yml, /home/patrike/.newrelic/newrelic.yml, /home/patrike/newrelic.yml
+[2021-04-12 16:51:30 +0530 nodejs (2528)] INFO : Environment: production
+[2021-04-12 16:51:30 +0530 nodejs (2528)] INFO : Dispatcher: passenger
+[2021-04-12 16:51:30 +0530 nodejs (2528)] INFO : Application: production
+[2021-04-12 16:51:30 +0530 nodejs (2528)] WARN : No license key found. This often means your newrelic.yml file was not found, or it lacks a section for the running environment, 'production'. You may also want to try linting your newrelic.yml to ensure it is valid YML.
+[2021-04-12 16:51:30 +0530 nodejs (2528)] INFO : Installing Rails 3+ middleware instrumentation
+[2021-04-12 16:51:30 +0530 nodejs (2528)] INFO : Installing Net instrumentation
+[2021-04-12 16:51:30 +0530 nodejs (2528)] INFO : Installing ActiveJob instrumentation
+[2021-04-12 16:51:30 +0530 nodejs (2528)] INFO : Installing deferred Rack::Builder instrumentation
+[2021-04-12 16:51:30 +0530 nodejs (2528)] INFO : Installing Rack::Builder middleware instrumentation
+[2021-04-12 16:51:30 +0530 nodejs (2528)] INFO : Installing notification based Action View instrumentation
+[2021-04-12 16:51:30 +0530 nodejs (2528)] INFO : Installing notifications based Action Controller instrumentation
+[2021-04-12 16:51:30 +0530 nodejs (2528)] INFO : Finished instrumentation
+[2021-04-12 16:51:31 +0530 nodejs (2528)] INFO : Doing deferred dependency-detection before Rack startup
+[2021-04-12 16:51:33 +0530 nodejs (2827)] INFO : Starting Agent shutdown
+[2021-04-12 16:51:33 +0530 nodejs (2794)] WARN : Agent received a ForceDisconnectException from the server, disconnecting. (410: Gone)
+[2021-04-12 16:51:34 +0530 nodejs (2883)] WARN : Agent received a ForceDisconnectException from the server, disconnecting. (410: Gone)
+[2021-04-12 16:51:34 +0530 nodejs (2946)] WARN : Agent received a ForceDisconnectException from the server, disconnecting. (410: Gone)
+[2021-04-12 16:55:37 +0530 nodejs (2794)] INFO : Starting Agent shutdown
+[2021-04-12 16:57:35 +0530 nodejs (2883)] INFO : Starting Agent shutdown
+[2021-04-12 17:01:11 +0530 nodejs (2946)] INFO : Starting Agent shutdown
+[2021-04-12 19:37:08 +0530 nodejs (3393)] INFO : Starting the New Relic agent version 6.4.0.356 in "production" environment.
+[2021-04-12 19:37:08 +0530 nodejs (3393)] INFO : To prevent agent startup add a NEW_RELIC_AGENT_ENABLED=false environment variable or modify the "production" section of your newrelic.yml.
+[2021-04-12 19:37:08 +0530 nodejs (3393)] WARN : No configuration file found. Working directory = /home/patrike/rails_apps/current
+[2021-04-12 19:37:08 +0530 nodejs (3393)] WARN : Looked in these locations (based on defaults): /home/patrike/rails_apps/current/config/newrelic.yml, /home/patrike/rails_apps/current/newrelic.yml, /home/patrike/rails_apps/current/config/newrelic.yml, /home/patrike/rails_apps/current/newrelic.yml, /home/patrike/.newrelic/newrelic.yml, /home/patrike/newrelic.yml
+[2021-04-12 19:37:08 +0530 nodejs (3393)] INFO : Environment: production
+[2021-04-12 19:37:08 +0530 nodejs (3393)] INFO : Dispatcher: passenger
+[2021-04-12 19:37:08 +0530 nodejs (3393)] INFO : Application: production
+[2021-04-12 19:37:08 +0530 nodejs (3393)] WARN : No license key found. This often means your newrelic.yml file was not found, or it lacks a section for the running environment, 'production'. You may also want to try linting your newrelic.yml to ensure it is valid YML.
+[2021-04-12 19:37:08 +0530 nodejs (3393)] INFO : Installing Rails 3+ middleware instrumentation
+[2021-04-12 19:37:08 +0530 nodejs (3393)] INFO : Installing Net instrumentation
+[2021-04-12 19:37:08 +0530 nodejs (3393)] INFO : Installing ActiveJob instrumentation
+[2021-04-12 19:37:08 +0530 nodejs (3393)] INFO : Installing deferred Rack::Builder instrumentation
+[2021-04-12 19:37:08 +0530 nodejs (3393)] INFO : Installing Rack::Builder middleware instrumentation
+[2021-04-12 19:37:08 +0530 nodejs (3393)] INFO : Installing notification based Action View instrumentation
+[2021-04-12 19:37:08 +0530 nodejs (3393)] INFO : Installing notifications based Action Controller instrumentation
+[2021-04-12 19:37:08 +0530 nodejs (3393)] INFO : Finished instrumentation
+[2021-04-12 19:37:08 +0530 nodejs (3393)] INFO : Doing deferred dependency-detection before Rack startup
+[2021-04-12 19:37:11 +0530 nodejs (3599)] WARN : Agent received a ForceDisconnectException from the server, disconnecting. (410: Gone)
+[2021-04-12 19:37:40 +0530 nodejs (3599)] INFO : Starting Agent shutdown
+[2021-04-12 19:37:44 +0530 nodejs (3808)] INFO : Starting the New Relic agent version 6.4.0.356 in "production" environment.
+[2021-04-12 19:37:44 +0530 nodejs (3808)] INFO : To prevent agent startup add a NEW_RELIC_AGENT_ENABLED=false environment variable or modify the "production" section of your newrelic.yml.
+[2021-04-12 19:37:44 +0530 nodejs (3808)] WARN : No configuration file found. Working directory = /home/patrike/rails_apps/current
+[2021-04-12 19:37:44 +0530 nodejs (3808)] WARN : Looked in these locations (based on defaults): /home/patrike/rails_apps/current/config/newrelic.yml, /home/patrike/rails_apps/current/newrelic.yml, /home/patrike/rails_apps/current/config/newrelic.yml, /home/patrike/rails_apps/current/newrelic.yml, /home/patrike/.newrelic/newrelic.yml, /home/patrike/newrelic.yml
+[2021-04-12 19:37:44 +0530 nodejs (3808)] INFO : Environment: production
+[2021-04-12 19:37:44 +0530 nodejs (3808)] INFO : Dispatcher: passenger
+[2021-04-12 19:37:44 +0530 nodejs (3808)] INFO : Application: production
+[2021-04-12 19:37:44 +0530 nodejs (3808)] WARN : No license key found. This often means your newrelic.yml file was not found, or it lacks a section for the running environment, 'production'. You may also want to try linting your newrelic.yml to ensure it is valid YML.
+[2021-04-12 19:37:44 +0530 nodejs (3808)] INFO : Installing Rails 3+ middleware instrumentation
+[2021-04-12 19:37:44 +0530 nodejs (3808)] INFO : Installing Net instrumentation
+[2021-04-12 19:37:44 +0530 nodejs (3808)] INFO : Installing ActiveJob instrumentation
+[2021-04-12 19:37:44 +0530 nodejs (3808)] INFO : Installing deferred Rack::Builder instrumentation
+[2021-04-12 19:37:44 +0530 nodejs (3808)] INFO : Installing Rack::Builder middleware instrumentation
+[2021-04-12 19:37:44 +0530 nodejs (3808)] INFO : Installing notification based Action View instrumentation
+[2021-04-12 19:37:44 +0530 nodejs (3808)] INFO : Installing notifications based Action Controller instrumentation
+[2021-04-12 19:37:44 +0530 nodejs (3808)] INFO : Finished instrumentation
+[2021-04-12 19:37:44 +0530 nodejs (3808)] INFO : Doing deferred dependency-detection before Rack startup
+[2021-04-12 19:37:47 +0530 nodejs (4005)] WARN : Agent received a ForceDisconnectException from the server, disconnecting. (410: Gone)
+[2021-04-12 19:38:23 +0530 nodejs (4005)] INFO : Starting Agent shutdown
+[2021-04-12 19:38:26 +0530 nodejs (4261)] INFO : Starting the New Relic agent version 6.4.0.356 in "production" environment.
+[2021-04-12 19:38:26 +0530 nodejs (4261)] INFO : To prevent agent startup add a NEW_RELIC_AGENT_ENABLED=false environment variable or modify the "production" section of your newrelic.yml.
+[2021-04-12 19:38:26 +0530 nodejs (4261)] WARN : No configuration file found. Working directory = /home/patrike/rails_apps/current
+[2021-04-12 19:38:26 +0530 nodejs (4261)] WARN : Looked in these locations (based on defaults): /home/patrike/rails_apps/current/config/newrelic.yml, /home/patrike/rails_apps/current/newrelic.yml, /home/patrike/rails_apps/current/config/newrelic.yml, /home/patrike/rails_apps/current/newrelic.yml, /home/patrike/.newrelic/newrelic.yml, /home/patrike/newrelic.yml
+[2021-04-12 19:38:26 +0530 nodejs (4261)] INFO : Environment: production
+[2021-04-12 19:38:26 +0530 nodejs (4261)] INFO : Dispatcher: passenger
+[2021-04-12 19:38:26 +0530 nodejs (4261)] INFO : Application: production
+[2021-04-12 19:38:26 +0530 nodejs (4261)] WARN : No license key found. This often means your newrelic.yml file was not found, or it lacks a section for the running environment, 'production'. You may also want to try linting your newrelic.yml to ensure it is valid YML.
+[2021-04-12 19:38:26 +0530 nodejs (4261)] INFO : Installing Rails 3+ middleware instrumentation
+[2021-04-12 19:38:26 +0530 nodejs (4261)] INFO : Installing Net instrumentation
+[2021-04-12 19:38:26 +0530 nodejs (4261)] INFO : Installing ActiveJob instrumentation
+[2021-04-12 19:38:26 +0530 nodejs (4261)] INFO : Installing deferred Rack::Builder instrumentation
+[2021-04-12 19:38:26 +0530 nodejs (4261)] INFO : Installing Rack::Builder middleware instrumentation
+[2021-04-12 19:38:26 +0530 nodejs (4261)] INFO : Installing notification based Action View instrumentation
+[2021-04-12 19:38:26 +0530 nodejs (4261)] INFO : Installing notifications based Action Controller instrumentation
+[2021-04-12 19:38:26 +0530 nodejs (4261)] INFO : Finished instrumentation
+[2021-04-12 19:38:27 +0530 nodejs (4261)] INFO : Doing deferred dependency-detection before Rack startup
+[2021-04-12 19:38:29 +0530 nodejs (4457)] WARN : Agent received a ForceDisconnectException from the server, disconnecting. (410: Gone)
+[2021-04-12 19:38:44 +0530 nodejs (4457)] INFO : Starting Agent shutdown
+[2021-04-12 19:38:48 +0530 nodejs (4576)] INFO : Starting the New Relic agent version 6.4.0.356 in "production" environment.
+[2021-04-12 19:38:48 +0530 nodejs (4576)] INFO : To prevent agent startup add a NEW_RELIC_AGENT_ENABLED=false environment variable or modify the "production" section of your newrelic.yml.
+[2021-04-12 19:38:48 +0530 nodejs (4576)] WARN : No configuration file found. Working directory = /home/patrike/rails_apps/current
+[2021-04-12 19:38:48 +0530 nodejs (4576)] WARN : Looked in these locations (based on defaults): /home/patrike/rails_apps/current/config/newrelic.yml, /home/patrike/rails_apps/current/newrelic.yml, /home/patrike/rails_apps/current/config/newrelic.yml, /home/patrike/rails_apps/current/newrelic.yml, /home/patrike/.newrelic/newrelic.yml, /home/patrike/newrelic.yml
+[2021-04-12 19:38:48 +0530 nodejs (4576)] INFO : Environment: production
+[2021-04-12 19:38:48 +0530 nodejs (4576)] INFO : Dispatcher: passenger
+[2021-04-12 19:38:48 +0530 nodejs (4576)] INFO : Application: production
+[2021-04-12 19:38:48 +0530 nodejs (4576)] WARN : No license key found. This often means your newrelic.yml file was not found, or it lacks a section for the running environment, 'production'. You may also want to try linting your newrelic.yml to ensure it is valid YML.
+[2021-04-12 19:38:48 +0530 nodejs (4576)] INFO : Installing Rails 3+ middleware instrumentation
+[2021-04-12 19:38:48 +0530 nodejs (4576)] INFO : Installing Net instrumentation
+[2021-04-12 19:38:48 +0530 nodejs (4576)] INFO : Installing ActiveJob instrumentation
+[2021-04-12 19:38:48 +0530 nodejs (4576)] INFO : Installing deferred Rack::Builder instrumentation
+[2021-04-12 19:38:48 +0530 nodejs (4576)] INFO : Installing Rack::Builder middleware instrumentation
+[2021-04-12 19:38:48 +0530 nodejs (4576)] INFO : Installing notification based Action View instrumentation
+[2021-04-12 19:38:48 +0530 nodejs (4576)] INFO : Installing notifications based Action Controller instrumentation
+[2021-04-12 19:38:48 +0530 nodejs (4576)] INFO : Finished instrumentation
+[2021-04-12 19:38:49 +0530 nodejs (4576)] INFO : Doing deferred dependency-detection before Rack startup
+[2021-04-12 19:38:51 +0530 nodejs (4772)] WARN : Agent received a ForceDisconnectException from the server, disconnecting. (410: Gone)
+[2021-04-12 19:47:29 +0530 nodejs (4772)] INFO : Starting Agent shutdown

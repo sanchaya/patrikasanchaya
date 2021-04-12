@@ -1,0 +1,57 @@
+<table class="table table-striped">
+  <thead>
+    <tr>
+      <th>  <%= t :book %> </th>
+      <th>  <%= t :author %> </th>
+      <th>  <%= t :publisher %> </th>
+      <th>  <%= t :library %> </th>
+      <th>  <%= t :year %> </th>
+      <th>  <%= t :book_link %> </th>
+    </tr>
+  </thead>
+  <tbody>
+    <% @books.each do |book| %>
+    <tr>
+      <td>
+        <%= book['name'] %>
+      </td>
+      <td>
+        <%= book['author'] %>
+      </td>
+      <td>
+        <%= book['publisher'] %>
+      </td>
+      <td>
+        <%= book['library'] %>
+      </td>
+       <td>
+        <%= book['year'] %>
+      </td>
+      <td>
+	<% if book['book_link'] &&  !book['book_link'].blank? %>
+         <%= link_to(book['book_link'], target: '_blank') do %> <%= fa_icon "book 2x" %> <% end %>
+	<% end %>
+         <% if book['archive_url'] &&  !book['archive_url'].blank? %>
+          <!-- Temp fix  -->
+          <%= link_to book['archive_url'], class: 'archive-url', target: '_blank'  do %> <%= image_tag('internet-archive-logo.png') %> <% end %>
+    	<% end %>
+        <% if book['metadata'] %>
+         <% if wikimedia_url(book['metadata']) &&  !wikimedia_url(book['metadata']).blank? %>
+          <!-- Temp fix  -->
+          <%= link_to wikimedia_url(book['metadata']), class: 'archive-url', target: '_blank'  do %> <%= image_tag('internet-archive-logo.png') %> <% end %>
+         <% end %>
+         <% if wikisource_url(book['metadata']) &&  !wikisource_url(book['metadata']).blank? %>
+           <!-- Temp fix  -->
+           <%= link_to wikisource_url(book['metadata']), class: 'archive-url', target: '_blank'  do %> <%= image_tag('commonswiki.png') %> <% end %>
+          <% end %>
+          <% end %>
+      </td>
+    </tr>
+    <% end %>
+  </tbody>
+</table>
+<% unless @books.empty? %>
+<div class="apple_pagination">
+  <%= paginate @books  %>
+</div> 
+<% end %>

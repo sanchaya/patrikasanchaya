@@ -1,0 +1,474 @@
+/*
+ * This is a manifest file that'll be compiled into application.css, which will include all the files
+ * listed below.
+ *
+ * Any CSS and SCSS file within this directory, lib/assets/stylesheets, vendor/assets/stylesheets,
+ * or vendor/assets/stylesheets of plugins, if any, can be referenced here using a relative path.
+ *
+ * You're free to add application-wide styles to this file and they'll appear at the bottom of the
+ * compiled file so the styles you add here take precedence over styles defined in any styles
+ * defined in the other CSS/SCSS files in this directory. It is generally better to create a new
+ * file per style scope.
+ *
+ *= require_tree .
+ *= require_self
+ */
+
+ @import url(https://fonts.googleapis.com/earlyaccess/notosanskannada.css);
+
+ body {
+ 	background: image-url("bg-pattern.png") repeat scroll 0 0 transparent;
+ }
+
+ body, p, ol, ul, td {
+ 	font-family: 'Noto Sans Kannada', serif !important;
+ }
+
+
+ /* pagination style css */
+
+ .apple_pagination {
+/* 	background: #f1f1f1; */
+/* 	border: 1px solid #e5e5e5; */
+ 	text-align: center;
+/* 	padding: 0.5em; */
+ 	cursor: default; 
+ }
+
+ .apple_pagination a, .apple_pagination span {
+ 	padding: 0.2em 0.3em; 
+ }
+ .apple_pagination .disabled {
+ 	color: #aaaaaa; 
+ }
+ .apple_pagination .current {
+ 	font-style: normal;
+ 	font-weight: bold;
+ 	background-color: #bebebe;
+ 	display: inline-block;
+ 	width: 1.4em;
+ 	height: 1.4em;
+ 	line-height: 1.5;
+ 	-moz-border-radius: 1em;
+ 	-webkit-border-radius: 1em;
+ 	border-radius: 1em;
+ 	text-shadow: rgba(255, 255, 255, 0.8) 1px 1px 1px; 
+ }
+ .apple_pagination a {
+ 	text-decoration: none;
+ 	color: black; 
+ }
+ .apple_pagination a:hover, .apple_pagination a:focus {
+ 	text-decoration: underline; 
+ }
+
+ .pagination{
+ 	margin: 0px;
+ }
+ 
+ /*Style afor apple style pagintaion from slamies ended*/
+
+
+ /*Style for footer */
+
+ #footer {
+ 	background: none repeat scroll 0 0 #333;
+ 	color: #666;
+ 	padding-bottom: 15px;
+ 	padding-top: 15px;
+ }
+
+ #footer a {
+ 	color: #666;
+ }
+ #footer a:hover {
+ 	color: #2dcc70;
+ }
+
+ #footer #gototop {
+ 	background: none repeat scroll 0 0 #1d1d1d;
+ 	color: #fff;
+ 	display: inline-block;
+ 	font-size: 24px;
+ 	height: 40px;
+ 	line-height: 40px;
+ 	text-align: center;
+ 	width: 40px;
+ }
+
+ #footer #gototop:hover {
+ 	background: none repeat scroll 0 0 #2b2b2b;
+ 	text-decoration: none;
+ }
+
+ /*Footer ended*/
+
+ /*header style */
+ header.navbar .navbar-inner {
+ 	background: none repeat scroll 0 0 #ffffff !important;
+ 	border: 0 none;
+ 	box-shadow: none;
+ }
+ header .logo {
+ 	margin-top: 1%;
+ 	width: 20%
+ }
+
+
+ header.navbar {
+ 	margin-bottom: 0;
+ }
+ header.navbar .nav {
+ 	margin-top: 20px;
+ }
+ header.navbar .nav > li {
+ 	margin-left: 1px;
+ }
+ header.navbar .nav > li > a {
+ 	color: #666;
+ 	font-family: "Fjalla One";
+ 	font-size: 14px;
+ 	padding-bottom: 10px;
+ 	padding-top: 10px;
+ 	text-shadow: none;
+ 	text-transform: uppercase;
+ }
+ header.navbar .nav > li > a:hover {
+ 	background: none repeat scroll 0 0 transparent;
+ 	box-shadow: none;
+ 	color: #2dcc70;
+ }
+ header.navbar .nav > li.active > a, header.navbar .nav > li.active > a:hover {
+ 	background: none repeat scroll 0 0 transparent;
+ 	box-shadow: none;
+ 	color: #2dcc70;
+ }
+
+ header.navbar .nav > li.login > a {
+ 	border-left: 1px solid #e5e5e5;
+ }
+
+ /*Header ended*/
+
+ /*Page header search */
+
+ .main-page-header {
+ 	text-align: center  ;
+ 	text-align: -moz-center ;
+ }
+
+ .main-page-header input[type="search"] {
+ 	height: 35px;
+ 	width: 40%;	
+ }
+
+ /*Introduction to samooha on landing page text*/
+ .intoduction-text {
+ 	margin: auto;
+ 	text-align: center;
+ 	width: 90%;
+ }
+
+ .into-header {
+ 	font-weight: bold;
+ }
+
+ .main-search-field {
+ 	width: 50%; 
+ 	margin: auto;
+ }
+
+.search-bottom-text {
+    text-align: center;
+	margin-top: 1%;
+}
+
+ .copy-right {
+ 	margin: auto;
+  padding-top: 1%;
+ 	width: 90%;
+ }
+
+ .main-search hr {
+ 	width: 60%;
+ }
+
+.footer {
+     bottom: 0;
+     width: 100%;
+     height: 60px;
+     margin-top: 2%;
+     background-color: #f8f8f8;
+}
+
+ /* Blocking ime selector pop up as we have bug with current version and botstrap 3
+We need to fix this later and remove below css
+*/
+.imeselector,.imeselector-toggle {
+	display: none !important ;
+}
+
+/*font awesome overriding*/
+
+.fa-facebook:hover{
+	color: #3B5998;
+}
+
+.fa-twitter:hover{
+	color: #55ACEE;
+}
+.fa-google-plus:hover{
+	color: #DD4B39;
+}
+.fa-check:hover{
+	color:	#4E8109;
+}
+
+.social-nav-right {
+	padding-top: 5px !important;
+	padding-bottom: 5px !important;
+}
+
+/* wiki book layout */
+.wiki-book-box {
+//	border: 3px solid #f2f1f0;
+}
+
+.wiki-left-box, .wiki-right-box {
+	margin: 1%;
+}
+
+.wiki-steps-box {
+ border: 2px solid #f2f1f0;
+  padding: 10px;
+}
+
+.wiki-left-box {
+	   border-right: 1px solid #919190;
+}
+
+ .wiki-dull-logo img {
+   // background: none repeat scroll 0 0 #d8d8d8;
+    opacity: 0.4;
+    filter: alpha(opacity=40);
+ }
+
+ .wiki-book-intro, .wiki-user-intro {
+  text-align: center;
+ }
+
+ .wiki-guide-box {
+    margin: auto;
+    width: 47%;
+ }
+
+ .confirm-wiki-user-box {
+    margin: auto;
+    width: 40%;
+ }
+
+// wiki div styles
+
+ .smpl-step {
+          margin-top: 40px;
+        }
+        .smpl-step {
+          border-bottom: solid 1px #e0e0e0;
+          padding: 0 0 10px 0;
+        }
+
+        .smpl-step > .smpl-step-step {
+          padding: 0;
+          position: relative;
+        }   
+
+        .smpl-step > .smpl-step-step .smpl-step-num {
+          font-size: 17px;
+          margin-top: -20px;
+          margin-left: 47px;
+        }
+
+        .smpl-step > .smpl-step-step .smpl-step-info {
+          font-size: 14px;
+          padding-top: 27px;
+        }
+
+        .smpl-step > .smpl-step-step > .smpl-step-icon {
+          background: none repeat scroll 0 0 #5cb85c;
+          border-radius: 50%;
+          display: block;
+          height: 50px;
+          left: 50%;
+          margin-left: -15px;
+          margin-top: -35px;
+          position: absolute;
+          top: 52px;
+          width: 50px;
+        }
+
+        .smpl-step > .smpl-step-step > .progress {
+          position: relative;
+          border-radius: 0px;
+          height: 8px;
+          box-shadow: none;
+          margin-top: 37px;
+        }
+
+        .smpl-step > .smpl-step-step > .progress > .progress-bar {
+         width: 0px;
+         box-shadow: none;
+         background: #428BCA;
+       }
+
+       .smpl-step > .smpl-step-step.complete > .progress > .progress-bar {
+        width: 100%;
+      }
+
+      .smpl-step > .smpl-step-step.active > .progress > .progress-bar {
+        width: 50%;
+      }
+
+      .smpl-step > .smpl-step-step:first-child.active > .progress > .progress-bar {
+        width: 0%;
+      }
+
+      .smpl-step > .smpl-step-step:last-child.active > .progress > .progress-bar {
+        width: 100%;
+      }
+
+      .smpl-step > .smpl-step-step.disabled > .smpl-step-icon {
+        background-color: #f5f5f5;
+      }
+
+      .smpl-step > .smpl-step-step.disabled > .smpl-step-icon:after {
+        opacity: 0;
+      }
+
+      .smpl-step > .smpl-step-step:first-child > .progress {
+        left: 50%;
+        width: 50%;
+      }
+
+      .smpl-step > .smpl-step-step:last-child > .progress {
+        width: 50%;
+      }
+
+      .smpl-step > .smpl-step-step.disabled a.smpl-step-icon {
+        pointer-events: none;
+      }
+
+
+ .steps-box {
+    /*background-color: #f2f1f0;*/
+    border: 2px solid #f2f1f0;
+    margin: 1%;
+    min-height: 100px;
+    padding: 10px;
+    width: 100%;
+  }
+  .steps-indicator {
+    text-align: center;
+    width: 100%;
+  }
+    .submit-wiki-user {
+    width: 100%;
+    text-align: center;
+  }
+
+
+
+  input[type="radio"] {
+    display: none;
+  }
+
+  input[type="radio"] + label {
+    color: #292321;
+    font-family: Arial, sans-serif;
+    font-size: 14px;
+  }
+
+  input[type="radio"] + label span {
+    display: inline-block;
+    width: 19px;
+    height: 19px;
+    margin: -1px 4px 0 0;
+    vertical-align: middle;
+    cursor: pointer;
+    -moz-border-radius: 50%;
+    border-radius: 50%;
+  }
+
+  input[type="radio"] + label span {
+    background-color: #292321;
+  }
+
+  input[type="radio"]:checked + label span {
+    background-color: #5b9b00;
+  }
+
+  input[type="radio"] + label span,
+  input[type="radio"]:checked + label span {
+    -webkit-transition: background-color 0.4s linear;
+    -o-transition: background-color 0.4s linear;
+    -moz-transition: background-color 0.4s linear;
+    transition: background-color 0.4s linear;
+  }
+
+  .user-enquire {
+    text-align: center;
+    width: 100%;
+  }
+
+  .wiki-btn {
+    font-size: 13px;
+    line-height: 1;
+  }
+
+ .wiki-not-present-link {
+   color: #C72F2F;
+ }
+
+ .wiki-preview hr {
+    margin-bottom: 10px;
+    margin-top: 0px;
+    color: #AAAAAA;
+ }
+ .infobox-intro {
+    font-style: italic;
+    font-weight: bold;
+    text-align: center;
+ }
+ .panel-body {
+    background: #f9f9f9 none repeat scroll 0 0;
+ }
+ .wiki-preview .table > tbody > tr > th,  .wiki-preview .table > tbody > tr > td {
+   border-top: 0px;
+    padding: 1px;
+ }
+
+ .wiki-preview {
+    font-family: sans-serif;
+    font-size: 12px;
+ }
+
+ .wiki-intro-info-box {
+   text-align: center;
+ }
+
+    
+  // wiki style ended
+
+.archive-url img {
+  width:40px; 
+  height: 40px
+}
+
+.archive-url:hover {
+    background-color: #fff;
+    color: #fff;
+}
+
+.source-url-image {
+  float: left;
+  margin-right: 2%;
+}

@@ -1,0 +1,84 @@
+<div class="container">
+  <%= render 'wiki_intro' %>
+  <div class="row smpl-step" style="border-bottom: 0; min-width: 500px;">
+    <div class="col-xs-4 smpl-step-step active step1">
+      <div class="text-center smpl-step-num ">ಹಂತ ೧</div>
+      <div class="progress">
+        <div class="progress-bar"></div>
+      </div>
+      <a class="smpl-step-icon"><i class="fa fa-user" style="font-size: 40px; padding-left: 10px; padding-top: 3px; color: black;"></i></a>
+      <div class="smpl-step-info text-center">ನಿಮ್ಮ ವಿಕಿ ಬಳಕೆದಾರ ನೊಂದಣಿ ಖಚಿತಪಡಿಸಿ.</div>
+    </div>
+
+    <div class="col-xs-4 smpl-step-step disabled step2">
+      <div class="text-center smpl-step-num">ಹಂತ ೨</div>
+      <div class="progress">
+        <div class="progress-bar"></div>
+      </div>
+      <a class="smpl-step-icon"><i class="fa fa-pencil-square-o" style="font-size: 40px; padding-left: 8px; padding-top: 8px; color: black;"></i></a>
+      <div class="smpl-step-info text-center">ವಿಕಿಪೀಡಿಯಾದಲ್ಲಿ ಸಂಪಾದನೆಗೆ ತೊಡಗಿ.</div>
+    </div>
+    <div class="col-xs-4 smpl-step-step disabled step3">
+      <div class="text-center smpl-step-num">ಹಂತ ೩</div>
+      <div class="progress">
+        <div class="progress-bar"></div>
+      </div>
+      <a class="smpl-step-icon"><i class="fa fa-repeat" style="font-size: 40px; padding-left: 7px; padding-top: 7px; color: black;"></i></a>
+      <div class="smpl-step-info text-center">ನಿಮ್ಮ ವಿಕಿ ಬಳಕೆಯ ಮಾಹಿತಿ ದೃಢೀ‍ಕರಿಸಿ.</div>
+    </div>
+  </div>
+</div>
+
+
+<div class="steps-box" id='step1'>
+  <%= render 'user_enquire_form' %>
+</div>
+<div class="steps-box" style="display:none" id='step2'>
+  <div class="row wiki-book-box">
+    
+    <div class="col-md-12">
+      <%= render 'wiki_guide' %>
+    </div>
+    <div class="col-md-12">
+      <%= render 'wiki_copy_text' %>
+    </div>
+  </div>
+</div>
+<div class="steps-box" style="display:none" id='step3'>
+  <%= render 'confirm_wiki_user' %>
+</div>
+
+<script type="text/javascript">
+ function showNextDiv(id) {
+  var prev_id = id - 1
+  var next_id = id + 1
+  var next_div_id = 'step' + next_id
+  var prev_div_id = 'step' + prev_id
+  var cur_div_id = 'step' + id
+  document.getElementById('step1').style.display = 'none';
+  document.getElementById('step2').style.display = 'none';
+  document.getElementById('step3').style.display = 'none';
+  document.getElementById(next_div_id).style.display = 'block';
+
+  var removclassname = document.getElementsByClassName(cur_div_id);
+  for(var i=0;i<removclassname.length;i++){
+    removclassname[i].classList.remove("active");
+    removclassname[i].className += ' complete';
+  }
+  var removclassname = document.getElementsByClassName(next_div_id);
+  for(var i=0;i<removclassname.length;i++){
+    removclassname[i].classList.remove("disabled");
+    removclassname[i].className += ' active';
+  }
+
+}
+// make sure form is valid, then execute next page function.
+function captureWikiUser(id) {
+  if ($("#capture-wiki-id").valid()) {
+    showNextDiv(id);
+    var wiki_user_id = document.getElementById('wiki-user-id').value;
+    var wiki_book_link = "https://kn.wikipedia.org/w/index.php?title=ಸದಸ್ಯ:" + wiki_user_id + "/sandbox/" + '<%= @wiki_book['book_name'] %>' + " (ಪುಸ್ತಕ)&action=edit";
+    document.getElementById("wiki-book-link").href = wiki_book_link;
+  }
+}
+</script>

@@ -1,0 +1,23 @@
+# Sample localization file for English. Add more files in this directory for other locales.
+# See https://github.com/svenfuchs/rails-i18n/tree/master/rails%2Flocale for starting points.
+
+en:
+  breadcrumbs:
+    application:
+      root: "ಪರಿವಿಡಿ"
+    pages:
+      pages: "ಪುಟಗಳು"
+  helpers:
+    actions: "Actions"
+    links:
+      back: "ಹಿಂದೆ"
+      cancel: "ರದ್ದುಮಾಡು"
+      confirm: "ಖಚಿತವೇ?"
+      destroy: "ಅಳಿಸು"
+      new: "ಹೊಸ"
+      edit: "ಸಂಪಾದಿಸು"
+    titles:
+      edit: "ಸಂಪಾದಿಸು %{model}"
+      save: "ಉಳಿಸು %{model}"
+      new: "ಹೊಸ %{model}"
+      delete: "ಅಳಿಸು %{model}"
