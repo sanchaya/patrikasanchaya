@@ -52,3 +52,1177 @@ I, [2021-04-12T19:38:50.062175 #4772]  INFO -- :   Rendered books/_stats.html.er
 I, [2021-04-12T19:38:50.062410 #4772]  INFO -- :   Rendered books/index.html.erb within layouts/application (5.4ms)
 I, [2021-04-12T19:38:50.082512 #4772]  INFO -- :   Rendered layouts/_nav_social.html.erb (1.0ms)
 I, [2021-04-12T19:38:50.083249 #4772]  INFO -- : Completed 200 OK in 728ms (Views: 51.9ms)
+I, [2021-04-13T07:18:19.523639 #15434]  INFO -- : Started GET "/" for 172.69.28.154 at 2021-04-13 07:18:19 +0530
+I, [2021-04-13T07:18:19.679827 #15434]  INFO -- : Processing by BooksController#index as HTML
+I, [2021-04-13T07:19:14.470261 #15434]  INFO -- :   Rendered books/_stats.html.erb (1.1ms)
+I, [2021-04-13T07:19:14.470500 #15434]  INFO -- :   Rendered books/index.html.erb within layouts/application (51.7ms)
+I, [2021-04-13T07:19:14.594647 #15434]  INFO -- :   Rendered layouts/_nav_social.html.erb (1.0ms)
+I, [2021-04-13T07:19:14.595253 #15434]  INFO -- : Completed 200 OK in 54915ms (Views: 879.3ms)
+I, [2021-04-13T07:19:14.599935 #15434]  INFO -- : Started GET "/" for 172.69.28.154 at 2021-04-13 07:19:14 +0530
+I, [2021-04-13T07:19:14.601197 #15434]  INFO -- : Processing by BooksController#index as HTML
+I, [2021-04-13T07:19:15.432801 #15434]  INFO -- :   Rendered books/_stats.html.erb (0.4ms)
+I, [2021-04-13T07:19:15.432996 #15434]  INFO -- :   Rendered books/index.html.erb within layouts/application (1.5ms)
+I, [2021-04-13T07:19:15.434800 #15434]  INFO -- :   Rendered layouts/_nav_social.html.erb (0.2ms)
+I, [2021-04-13T07:19:15.435148 #15434]  INFO -- : Completed 200 OK in 834ms (Views: 4.0ms)
+I, [2021-04-13T07:19:15.438193 #15434]  INFO -- : Started GET "/" for 2606:4700:1101:0:da0f:cfdb:a7d8:7c85 at 2021-04-13 07:19:15 +0530
+I, [2021-04-13T07:19:15.439289 #15434]  INFO -- : Processing by BooksController#index as HTML
+I, [2021-04-13T07:19:24.258103 #15434]  INFO -- :   Rendered books/_stats.html.erb (0.4ms)
+I, [2021-04-13T07:19:24.258298 #15434]  INFO -- :   Rendered books/index.html.erb within layouts/application (1.4ms)
+I, [2021-04-13T07:19:24.259966 #15434]  INFO -- :   Rendered layouts/_nav_social.html.erb (0.3ms)
+I, [2021-04-13T07:19:24.260326 #15434]  INFO -- : Completed 200 OK in 8821ms (Views: 3.7ms)
+I, [2021-04-13T07:19:24.263482 #15434]  INFO -- : Started GET "/" for 2606:4700:1101:0:da0f:cfdb:a7d8:7c85 at 2021-04-13 07:19:24 +0530
+I, [2021-04-13T07:19:24.265871 #15434]  INFO -- : Processing by BooksController#index as HTML
+I, [2021-04-13T07:19:24.912814 #15434]  INFO -- :   Rendered books/_stats.html.erb (0.4ms)
+I, [2021-04-13T07:19:24.913001 #15434]  INFO -- :   Rendered books/index.html.erb within layouts/application (1.8ms)
+I, [2021-04-13T07:19:24.914670 #15434]  INFO -- :   Rendered layouts/_nav_social.html.erb (0.2ms)
+I, [2021-04-13T07:19:24.915035 #15434]  INFO -- : Completed 200 OK in 649ms (Views: 4.1ms)
+I, [2021-04-13T07:19:24.918140 #15434]  INFO -- : Started GET "/" for 172.69.28.154 at 2021-04-13 07:19:24 +0530
+I, [2021-04-13T07:19:24.919279 #15434]  INFO -- : Processing by BooksController#index as HTML
+I, [2021-04-13T07:19:25.531359 #15434]  INFO -- :   Rendered books/_stats.html.erb (0.4ms)
+I, [2021-04-13T07:19:25.531525 #15434]  INFO -- :   Rendered books/index.html.erb within layouts/application (1.4ms)
+I, [2021-04-13T07:19:25.533173 #15434]  INFO -- :   Rendered layouts/_nav_social.html.erb (0.3ms)
+I, [2021-04-13T07:19:25.533548 #15434]  INFO -- : Completed 200 OK in 614ms (Views: 3.7ms)
+I, [2021-04-13T07:19:25.537278 #15434]  INFO -- : Started GET "/" for 172.69.28.154 at 2021-04-13 07:19:25 +0530
+I, [2021-04-13T07:19:25.538407 #15434]  INFO -- : Processing by BooksController#index as HTML
+I, [2021-04-13T07:19:26.053667 #15434]  INFO -- :   Rendered books/_stats.html.erb (0.4ms)
+I, [2021-04-13T07:19:26.053815 #15434]  INFO -- :   Rendered books/index.html.erb within layouts/application (1.3ms)
+I, [2021-04-13T07:19:26.055405 #15434]  INFO -- :   Rendered layouts/_nav_social.html.erb (0.2ms)
+I, [2021-04-13T07:19:26.055758 #15434]  INFO -- : Completed 200 OK in 517ms (Views: 3.6ms)
+I, [2021-04-14T10:08:24.270652 #9591]  INFO -- : Started GET "/" for 3.237.20.246 at 2021-04-14 10:08:24 +0530
+I, [2021-04-14T10:08:24.288432 #9591]  INFO -- : Processing by BooksController#index as HTML
+I, [2021-04-14T10:08:25.409361 #9591]  INFO -- :   Rendered books/_stats.html.erb (1.0ms)
+I, [2021-04-14T10:08:25.409575 #9591]  INFO -- :   Rendered books/index.html.erb within layouts/application (10.0ms)
+I, [2021-04-14T10:08:25.419602 #9591]  INFO -- :   Rendered layouts/_nav_social.html.erb (1.0ms)
+I, [2021-04-14T10:08:25.420298 #9591]  INFO -- : Completed 200 OK in 1131ms (Views: 78.9ms)
+I, [2021-04-15T00:54:59.918281 #63074]  INFO -- : Started GET "/" for 162.220.162.10 at 2021-04-15 00:54:59 +0530
+I, [2021-04-15T00:54:59.963692 #63074]  INFO -- : Processing by BooksController#index as HTML
+I, [2021-04-15T00:55:06.626459 #63074]  INFO -- :   Rendered books/_stats.html.erb (1.0ms)
+I, [2021-04-15T00:55:06.626666 #63074]  INFO -- :   Rendered books/index.html.erb within layouts/application (18.2ms)
+I, [2021-04-15T00:55:06.636956 #63074]  INFO -- :   Rendered layouts/_nav_social.html.erb (1.0ms)
+I, [2021-04-15T00:55:06.637586 #63074]  INFO -- : Completed 200 OK in 6673ms (Views: 97.3ms)
+I, [2021-04-15T09:13:40.917283 #57744]  INFO -- : Started HEAD "/" for 2606:4700:1101:0:d165:6d69:2236:dd53 at 2021-04-15 09:13:40 +0530
+I, [2021-04-15T09:13:40.941902 #57744]  INFO -- : Processing by BooksController#index as */*
+I, [2021-04-15T09:13:55.687556 #57744]  INFO -- :   Rendered books/_stats.html.erb (1.3ms)
+I, [2021-04-15T09:13:55.687789 #57744]  INFO -- :   Rendered books/index.html.erb within layouts/application (18.5ms)
+I, [2021-04-15T09:13:55.747286 #57744]  INFO -- :   Rendered layouts/_nav_social.html.erb (1.3ms)
+I, [2021-04-15T09:13:55.748111 #57744]  INFO -- : Completed 200 OK in 14806ms (Views: 172.5ms)
+I, [2021-04-15T09:13:55.755830 #57744]  INFO -- : Started HEAD "/" for 2606:4700:1101:0:9f90:493d:7e28:1280 at 2021-04-15 09:13:55 +0530
+I, [2021-04-15T09:13:55.757381 #57744]  INFO -- : Processing by BooksController#index as */*
+I, [2021-04-15T09:13:56.340648 #57744]  INFO -- :   Rendered books/_stats.html.erb (0.4ms)
+I, [2021-04-15T09:13:56.340817 #57744]  INFO -- :   Rendered books/index.html.erb within layouts/application (1.5ms)
+I, [2021-04-15T09:13:56.342627 #57744]  INFO -- :   Rendered layouts/_nav_social.html.erb (0.3ms)
+I, [2021-04-15T09:13:56.343000 #57744]  INFO -- : Completed 200 OK in 585ms (Views: 4.2ms)
+I, [2021-04-17T13:16:17.075608 #17410]  INFO -- : Started GET "/" for 54.89.45.74 at 2021-04-17 13:16:17 +0530
+I, [2021-04-17T13:16:17.092136 #17410]  INFO -- : Processing by BooksController#index as HTML
+I, [2021-04-17T13:16:18.863311 #17410]  INFO -- :   Rendered books/_stats.html.erb (1.1ms)
+I, [2021-04-17T13:16:18.863530 #17410]  INFO -- :   Rendered books/index.html.erb within layouts/application (10.1ms)
+I, [2021-04-17T13:16:18.873890 #17410]  INFO -- :   Rendered layouts/_nav_social.html.erb (0.9ms)
+I, [2021-04-17T13:16:18.874536 #17410]  INFO -- : Completed 200 OK in 1782ms (Views: 83.8ms)
+I, [2021-04-17T13:22:19.979885 #19751]  INFO -- : Started GET "/" for 54.89.45.74 at 2021-04-17 13:22:19 +0530
+I, [2021-04-17T13:22:19.986576 #19751]  INFO -- : Processing by BooksController#index as HTML
+I, [2021-04-17T13:22:20.666490 #19751]  INFO -- :   Rendered books/_stats.html.erb (1.0ms)
+I, [2021-04-17T13:22:20.666692 #19751]  INFO -- :   Rendered books/index.html.erb within layouts/application (5.1ms)
+I, [2021-04-17T13:22:20.676858 #19751]  INFO -- :   Rendered layouts/_nav_social.html.erb (1.1ms)
+I, [2021-04-17T13:22:20.677573 #19751]  INFO -- : Completed 200 OK in 691ms (Views: 25.1ms)
+I, [2021-04-17T13:26:18.217559 #21456]  INFO -- : Started GET "/" for 54.89.45.74 at 2021-04-17 13:26:18 +0530
+I, [2021-04-17T13:26:18.224794 #21456]  INFO -- : Processing by BooksController#index as HTML
+I, [2021-04-17T13:26:18.764153 #21456]  INFO -- :   Rendered books/_stats.html.erb (1.0ms)
+I, [2021-04-17T13:26:18.764373 #21456]  INFO -- :   Rendered books/index.html.erb within layouts/application (5.5ms)
+I, [2021-04-17T13:26:18.774838 #21456]  INFO -- :   Rendered layouts/_nav_social.html.erb (1.1ms)
+I, [2021-04-17T13:26:18.775652 #21456]  INFO -- : Completed 200 OK in 550ms (Views: 26.7ms)
+I, [2021-04-17T13:27:50.336172 #21456]  INFO -- : Started GET "/categories" for 54.89.45.74 at 2021-04-17 13:27:50 +0530
+I, [2021-04-17T13:27:50.338461 #21456]  INFO -- : Processing by CategoriesController#index as HTML
+I, [2021-04-17T13:27:50.725781 #21456]  INFO -- :   Rendered categories/index.html.erb within layouts/application (4.3ms)
+I, [2021-04-17T13:27:50.727816 #21456]  INFO -- :   Rendered layouts/_nav_social.html.erb (0.3ms)
+I, [2021-04-17T13:27:50.728276 #21456]  INFO -- : Completed 200 OK in 390ms (Views: 41.1ms)
+I, [2021-04-17T13:27:50.992253 #21456]  INFO -- : Started GET "/about" for 54.89.45.74 at 2021-04-17 13:27:50 +0530
+I, [2021-04-17T13:27:51.020090 #21456]  INFO -- : Processing by BooksController#about as HTML
+I, [2021-04-17T13:27:51.023142 #21456]  INFO -- :   Rendered books/about.html.erb within layouts/application (1.0ms)
+I, [2021-04-17T13:27:51.024919 #21456]  INFO -- :   Rendered layouts/_nav_social.html.erb (0.3ms)
+I, [2021-04-17T13:27:51.025283 #21456]  INFO -- : Completed 200 OK in 5ms (Views: 4.1ms)
+I, [2021-04-17T13:28:51.285768 #21456]  INFO -- : Started GET "/help" for 54.89.45.74 at 2021-04-17 13:28:51 +0530
+I, [2021-04-17T13:28:51.333666 #21456]  INFO -- : Processing by BooksController#help as HTML
+I, [2021-04-17T13:28:51.336392 #21456]  INFO -- :   Rendered books/help.html.erb within layouts/application (0.6ms)
+I, [2021-04-17T13:28:51.338225 #21456]  INFO -- :   Rendered layouts/_nav_social.html.erb (0.3ms)
+I, [2021-04-17T13:28:51.338544 #21456]  INFO -- : Completed 200 OK in 4ms (Views: 3.8ms)
+I, [2021-04-17T13:30:21.570607 #21456]  INFO -- : Started GET "/categories/1" for 54.89.45.74 at 2021-04-17 13:30:21 +0530
+I, [2021-04-17T13:30:21.572167 #21456]  INFO -- : Processing by CategoriesController#show as HTML
+I, [2021-04-17T13:30:21.572229 #21456]  INFO -- :   Parameters: {"id"=>"1"}
+I, [2021-04-17T13:30:26.782939 #21456]  INFO -- :   Rendered books/_book_lists.html.erb (26.9ms)
+I, [2021-04-17T13:30:26.783132 #21456]  INFO -- :   Rendered categories/show.html.erb within layouts/application (35.6ms)
+I, [2021-04-17T13:30:26.784772 #21456]  INFO -- :   Rendered layouts/_nav_social.html.erb (0.2ms)
+I, [2021-04-17T13:30:26.785132 #21456]  INFO -- : Completed 200 OK in 5213ms (Views: 56.2ms)
+I, [2021-04-17T13:31:24.587792 #21456]  INFO -- : Started GET "/categories/1" for 54.89.45.74 at 2021-04-17 13:31:24 +0530
+I, [2021-04-17T13:31:24.589135 #21456]  INFO -- : Processing by CategoriesController#show as HTML
+I, [2021-04-17T13:31:24.589206 #21456]  INFO -- :   Parameters: {"id"=>"1"}
+I, [2021-04-17T13:31:32.334704 #21456]  INFO -- :   Rendered books/_book_lists.html.erb (19.7ms)
+I, [2021-04-17T13:31:32.334958 #21456]  INFO -- :   Rendered categories/show.html.erb within layouts/application (20.5ms)
+I, [2021-04-17T13:31:32.360411 #21456]  INFO -- :   Rendered layouts/_nav_social.html.erb (24.0ms)
+I, [2021-04-17T13:31:32.361020 #21456]  INFO -- : Completed 200 OK in 7772ms (Views: 96.9ms)
+I, [2021-04-17T13:33:27.643280 #21456]  INFO -- : Started GET "/categories/1" for 54.89.45.74 at 2021-04-17 13:33:27 +0530
+I, [2021-04-17T13:33:27.644637 #21456]  INFO -- : Processing by CategoriesController#show as HTML
+I, [2021-04-17T13:33:27.644690 #21456]  INFO -- :   Parameters: {"id"=>"1"}
+I, [2021-04-17T13:33:30.469878 #21456]  INFO -- :   Rendered books/_book_lists.html.erb (23.6ms)
+I, [2021-04-17T13:33:30.470089 #21456]  INFO -- :   Rendered categories/show.html.erb within layouts/application (24.3ms)
+I, [2021-04-17T13:33:30.475279 #21456]  INFO -- :   Rendered layouts/_nav_social.html.erb (0.3ms)
+I, [2021-04-17T13:33:30.475706 #21456]  INFO -- : Completed 200 OK in 2831ms (Views: 30.3ms)
+I, [2021-04-17T13:37:30.676257 #21456]  INFO -- : Started GET "/categories/1" for 54.89.45.74 at 2021-04-17 13:37:30 +0530
+I, [2021-04-17T13:37:30.677598 #21456]  INFO -- : Processing by CategoriesController#show as HTML
+I, [2021-04-17T13:37:30.677720 #21456]  INFO -- :   Parameters: {"id"=>"1"}
+I, [2021-04-17T13:37:33.328107 #21456]  INFO -- :   Rendered books/_book_lists.html.erb (7.9ms)
+I, [2021-04-17T13:37:33.328331 #21456]  INFO -- :   Rendered categories/show.html.erb within layouts/application (8.4ms)
+I, [2021-04-17T13:37:33.329902 #21456]  INFO -- :   Rendered layouts/_nav_social.html.erb (0.4ms)
+I, [2021-04-17T13:37:33.330236 #21456]  INFO -- : Completed 200 OK in 2652ms (Views: 10.8ms)
+I, [2021-04-17T13:38:33.589758 #21456]  INFO -- : Started GET "/categories/2" for 54.89.45.74 at 2021-04-17 13:38:33 +0530
+I, [2021-04-17T13:38:33.591156 #21456]  INFO -- : Processing by CategoriesController#show as HTML
+I, [2021-04-17T13:38:33.591210 #21456]  INFO -- :   Parameters: {"id"=>"2"}
+I, [2021-04-17T13:38:33.793862 #21456]  INFO -- :   Rendered books/_book_lists.html.erb (1.6ms)
+I, [2021-04-17T13:38:33.794028 #21456]  INFO -- :   Rendered categories/show.html.erb within layouts/application (2.1ms)
+I, [2021-04-17T13:38:33.795568 #21456]  INFO -- :   Rendered layouts/_nav_social.html.erb (0.3ms)
+I, [2021-04-17T13:38:33.795894 #21456]  INFO -- : Completed 200 OK in 204ms (Views: 4.2ms)
+I, [2021-04-17T13:38:34.038048 #21456]  INFO -- : Started GET "/categories/3" for 54.89.45.74 at 2021-04-17 13:38:34 +0530
+I, [2021-04-17T13:38:34.039593 #21456]  INFO -- : Processing by CategoriesController#show as HTML
+I, [2021-04-17T13:38:34.039655 #21456]  INFO -- :   Parameters: {"id"=>"3"}
+I, [2021-04-17T13:38:36.986816 #21456]  INFO -- :   Rendered books/_book_lists.html.erb (9.1ms)
+I, [2021-04-17T13:38:36.987036 #21456]  INFO -- :   Rendered categories/show.html.erb within layouts/application (9.7ms)
+I, [2021-04-17T13:38:36.988538 #21456]  INFO -- :   Rendered layouts/_nav_social.html.erb (0.3ms)
+I, [2021-04-17T13:38:36.988887 #21456]  INFO -- : Completed 200 OK in 2949ms (Views: 11.9ms)
+I, [2021-04-17T13:39:37.066440 #21456]  INFO -- : Started GET "/categories/3" for 54.89.45.74 at 2021-04-17 13:39:37 +0530
+I, [2021-04-17T13:39:37.067813 #21456]  INFO -- : Processing by CategoriesController#show as HTML
+I, [2021-04-17T13:39:37.067872 #21456]  INFO -- :   Parameters: {"id"=>"3"}
+I, [2021-04-17T13:39:39.076899 #21456]  INFO -- :   Rendered books/_book_lists.html.erb (24.3ms)
+I, [2021-04-17T13:39:39.077126 #21456]  INFO -- :   Rendered categories/show.html.erb within layouts/application (25.0ms)
+I, [2021-04-17T13:39:39.078684 #21456]  INFO -- :   Rendered layouts/_nav_social.html.erb (0.2ms)
+I, [2021-04-17T13:39:39.079105 #21456]  INFO -- : Completed 200 OK in 2011ms (Views: 27.3ms)
+I, [2021-04-17T13:40:39.350444 #21456]  INFO -- : Started GET "/categories/4" for 54.89.45.74 at 2021-04-17 13:40:39 +0530
+I, [2021-04-17T13:40:39.351964 #21456]  INFO -- : Processing by CategoriesController#show as HTML
+I, [2021-04-17T13:40:39.352025 #21456]  INFO -- :   Parameters: {"id"=>"4"}
+I, [2021-04-17T13:40:39.858430 #21456]  INFO -- :   Rendered books/_book_lists.html.erb (8.3ms)
+I, [2021-04-17T13:40:39.858668 #21456]  INFO -- :   Rendered categories/show.html.erb within layouts/application (9.2ms)
+I, [2021-04-17T13:40:39.860307 #21456]  INFO -- :   Rendered layouts/_nav_social.html.erb (0.2ms)
+I, [2021-04-17T13:40:39.860666 #21456]  INFO -- : Completed 200 OK in 508ms (Views: 11.5ms)
+I, [2021-04-17T13:40:40.115714 #21456]  INFO -- : Started GET "/categories/5" for 54.89.45.74 at 2021-04-17 13:40:40 +0530
+I, [2021-04-17T13:40:40.117117 #21456]  INFO -- : Processing by CategoriesController#show as HTML
+I, [2021-04-17T13:40:40.117205 #21456]  INFO -- :   Parameters: {"id"=>"5"}
+I, [2021-04-17T13:40:40.754505 #21456]  INFO -- :   Rendered books/_book_lists.html.erb (8.4ms)
+I, [2021-04-17T13:40:40.754716 #21456]  INFO -- :   Rendered categories/show.html.erb within layouts/application (9.0ms)
+I, [2021-04-17T13:40:40.756186 #21456]  INFO -- :   Rendered layouts/_nav_social.html.erb (0.2ms)
+I, [2021-04-17T13:40:40.756638 #21456]  INFO -- : Completed 200 OK in 639ms (Views: 11.2ms)
+I, [2021-04-17T13:41:41.014040 #21456]  INFO -- : Started GET "/categories/6" for 54.89.45.74 at 2021-04-17 13:41:41 +0530
+I, [2021-04-17T13:41:41.015565 #21456]  INFO -- : Processing by CategoriesController#show as HTML
+I, [2021-04-17T13:41:41.015641 #21456]  INFO -- :   Parameters: {"id"=>"6"}
+I, [2021-04-17T13:41:41.583318 #21456]  INFO -- :   Rendered books/_book_lists.html.erb (9.8ms)
+I, [2021-04-17T13:41:41.583587 #21456]  INFO -- :   Rendered categories/show.html.erb within layouts/application (10.4ms)
+I, [2021-04-17T13:41:41.585592 #21456]  INFO -- :   Rendered layouts/_nav_social.html.erb (0.5ms)
+I, [2021-04-17T13:41:41.586020 #21456]  INFO -- : Completed 200 OK in 570ms (Views: 13.1ms)
+I, [2021-04-17T13:41:41.850373 #21456]  INFO -- : Started GET "/categories/7" for 54.89.45.74 at 2021-04-17 13:41:41 +0530
+I, [2021-04-17T13:41:41.851948 #21456]  INFO -- : Processing by CategoriesController#show as HTML
+I, [2021-04-17T13:41:41.852010 #21456]  INFO -- :   Parameters: {"id"=>"7"}
+I, [2021-04-17T13:41:42.088011 #21456]  INFO -- :   Rendered books/_book_lists.html.erb (2.4ms)
+I, [2021-04-17T13:41:42.088181 #21456]  INFO -- :   Rendered categories/show.html.erb within layouts/application (2.9ms)
+I, [2021-04-17T13:41:42.090361 #21456]  INFO -- :   Rendered layouts/_nav_social.html.erb (0.4ms)
+I, [2021-04-17T13:41:42.090695 #21456]  INFO -- : Completed 200 OK in 238ms (Views: 5.8ms)
+I, [2021-04-17T13:42:42.341844 #21456]  INFO -- : Started GET "/categories/8" for 54.89.45.74 at 2021-04-17 13:42:42 +0530
+I, [2021-04-17T13:42:42.343307 #21456]  INFO -- : Processing by CategoriesController#show as HTML
+I, [2021-04-17T13:42:42.343369 #21456]  INFO -- :   Parameters: {"id"=>"8"}
+I, [2021-04-17T13:42:42.623597 #21456]  INFO -- :   Rendered books/_book_lists.html.erb (11.1ms)
+I, [2021-04-17T13:42:42.623817 #21456]  INFO -- :   Rendered categories/show.html.erb within layouts/application (11.6ms)
+I, [2021-04-17T13:42:42.625968 #21456]  INFO -- :   Rendered layouts/_nav_social.html.erb (0.4ms)
+I, [2021-04-17T13:42:42.626331 #21456]  INFO -- : Completed 200 OK in 283ms (Views: 14.4ms)
+I, [2021-04-17T13:42:42.865957 #21456]  INFO -- : Started GET "/categories/9" for 54.89.45.74 at 2021-04-17 13:42:42 +0530
+I, [2021-04-17T13:42:42.867437 #21456]  INFO -- : Processing by CategoriesController#show as HTML
+I, [2021-04-17T13:42:42.867489 #21456]  INFO -- :   Parameters: {"id"=>"9"}
+I, [2021-04-17T13:42:43.142820 #21456]  INFO -- :   Rendered books/_book_lists.html.erb (11.1ms)
+I, [2021-04-17T13:42:43.143041 #21456]  INFO -- :   Rendered categories/show.html.erb within layouts/application (11.7ms)
+I, [2021-04-17T13:42:43.145141 #21456]  INFO -- :   Rendered layouts/_nav_social.html.erb (0.4ms)
+I, [2021-04-17T13:42:43.145546 #21456]  INFO -- : Completed 200 OK in 278ms (Views: 14.4ms)
+I, [2021-04-17T13:43:43.396924 #21456]  INFO -- : Started GET "/categories/10" for 54.89.45.74 at 2021-04-17 13:43:43 +0530
+I, [2021-04-17T13:43:43.398245 #21456]  INFO -- : Processing by CategoriesController#show as HTML
+I, [2021-04-17T13:43:43.398299 #21456]  INFO -- :   Parameters: {"id"=>"10"}
+I, [2021-04-17T13:43:43.680204 #21456]  INFO -- :   Rendered books/_book_lists.html.erb (9.6ms)
+I, [2021-04-17T13:43:43.680443 #21456]  INFO -- :   Rendered categories/show.html.erb within layouts/application (10.1ms)
+I, [2021-04-17T13:43:43.682244 #21456]  INFO -- :   Rendered layouts/_nav_social.html.erb (0.2ms)
+I, [2021-04-17T13:43:43.682761 #21456]  INFO -- : Completed 200 OK in 284ms (Views: 13.1ms)
+I, [2021-04-17T13:43:43.913897 #21456]  INFO -- : Started GET "/categories/11" for 54.89.45.74 at 2021-04-17 13:43:43 +0530
+I, [2021-04-17T13:43:43.915447 #21456]  INFO -- : Processing by CategoriesController#show as HTML
+I, [2021-04-17T13:43:43.915501 #21456]  INFO -- :   Parameters: {"id"=>"11"}
+I, [2021-04-17T13:43:44.130681 #21456]  INFO -- :   Rendered books/_book_lists.html.erb (1.8ms)
+I, [2021-04-17T13:43:44.130863 #21456]  INFO -- :   Rendered categories/show.html.erb within layouts/application (2.3ms)
+I, [2021-04-17T13:43:44.132739 #21456]  INFO -- :   Rendered layouts/_nav_social.html.erb (0.4ms)
+I, [2021-04-17T13:43:44.133063 #21456]  INFO -- : Completed 200 OK in 217ms (Views: 4.8ms)
+I, [2021-04-17T13:44:44.382688 #21456]  INFO -- : Started GET "/categories/12" for 54.89.45.74 at 2021-04-17 13:44:44 +0530
+I, [2021-04-17T13:44:44.384139 #21456]  INFO -- : Processing by CategoriesController#show as HTML
+I, [2021-04-17T13:44:44.384203 #21456]  INFO -- :   Parameters: {"id"=>"12"}
+I, [2021-04-17T13:44:44.685750 #21456]  INFO -- :   Rendered books/_book_lists.html.erb (7.3ms)
+I, [2021-04-17T13:44:44.685952 #21456]  INFO -- :   Rendered categories/show.html.erb within layouts/application (7.8ms)
+I, [2021-04-17T13:44:44.689543 #21456]  INFO -- :   Rendered layouts/_nav_social.html.erb (0.3ms)
+I, [2021-04-17T13:44:44.715960 #21456]  INFO -- : Completed 200 OK in 331ms (Views: 37.9ms)
+I, [2021-04-17T13:44:44.969806 #21456]  INFO -- : Started GET "/categories/13" for 54.89.45.74 at 2021-04-17 13:44:44 +0530
+I, [2021-04-17T13:44:44.971617 #21456]  INFO -- : Processing by CategoriesController#show as HTML
+I, [2021-04-17T13:44:44.971674 #21456]  INFO -- :   Parameters: {"id"=>"13"}
+I, [2021-04-17T13:44:45.324943 #21456]  INFO -- :   Rendered books/_book_lists.html.erb (8.7ms)
+I, [2021-04-17T13:44:45.325143 #21456]  INFO -- :   Rendered categories/show.html.erb within layouts/application (9.4ms)
+I, [2021-04-17T13:44:45.340655 #21456]  INFO -- :   Rendered layouts/_nav_social.html.erb (0.5ms)
+I, [2021-04-17T13:44:45.341140 #21456]  INFO -- : Completed 200 OK in 369ms (Views: 26.1ms)
+I, [2021-04-17T13:45:45.589554 #21456]  INFO -- : Started GET "/categories/14" for 54.89.45.74 at 2021-04-17 13:45:45 +0530
+I, [2021-04-17T13:45:45.591155 #21456]  INFO -- : Processing by CategoriesController#show as HTML
+I, [2021-04-17T13:45:45.591216 #21456]  INFO -- :   Parameters: {"id"=>"14"}
+I, [2021-04-17T13:45:46.124914 #21456]  INFO -- :   Rendered books/_book_lists.html.erb (54.3ms)
+I, [2021-04-17T13:45:46.125139 #21456]  INFO -- :   Rendered categories/show.html.erb within layouts/application (54.9ms)
+I, [2021-04-17T13:45:46.127097 #21456]  INFO -- :   Rendered layouts/_nav_social.html.erb (0.2ms)
+I, [2021-04-17T13:45:46.127661 #21456]  INFO -- : Completed 200 OK in 536ms (Views: 57.7ms)
+I, [2021-04-17T13:45:46.377899 #21456]  INFO -- : Started GET "/categories/15" for 54.89.45.74 at 2021-04-17 13:45:46 +0530
+I, [2021-04-17T13:45:46.379533 #21456]  INFO -- : Processing by CategoriesController#show as HTML
+I, [2021-04-17T13:45:46.379594 #21456]  INFO -- :   Parameters: {"id"=>"15"}
+I, [2021-04-17T13:45:46.723970 #21456]  INFO -- :   Rendered books/_book_lists.html.erb (29.5ms)
+I, [2021-04-17T13:45:46.724286 #21456]  INFO -- :   Rendered categories/show.html.erb within layouts/application (30.2ms)
+I, [2021-04-17T13:45:46.726070 #21456]  INFO -- :   Rendered layouts/_nav_social.html.erb (0.2ms)
+I, [2021-04-17T13:45:46.726614 #21456]  INFO -- : Completed 200 OK in 347ms (Views: 32.8ms)
+I, [2021-04-17T13:46:46.997954 #21456]  INFO -- : Started GET "/categories/16" for 54.89.45.74 at 2021-04-17 13:46:46 +0530
+I, [2021-04-17T13:46:46.999684 #21456]  INFO -- : Processing by CategoriesController#show as HTML
+I, [2021-04-17T13:46:46.999739 #21456]  INFO -- :   Parameters: {"id"=>"16"}
+I, [2021-04-17T13:46:47.197512 #21456]  INFO -- :   Rendered books/_book_lists.html.erb (1.7ms)
+I, [2021-04-17T13:46:47.197719 #21456]  INFO -- :   Rendered categories/show.html.erb within layouts/application (2.4ms)
+I, [2021-04-17T13:46:47.200371 #21456]  INFO -- :   Rendered layouts/_nav_social.html.erb (0.4ms)
+I, [2021-04-17T13:46:47.200967 #21456]  INFO -- : Completed 200 OK in 201ms (Views: 5.7ms)
+I, [2021-04-17T13:46:47.435951 #21456]  INFO -- : Started GET "/categories/17" for 54.89.45.74 at 2021-04-17 13:46:47 +0530
+I, [2021-04-17T13:46:47.437267 #21456]  INFO -- : Processing by CategoriesController#show as HTML
+I, [2021-04-17T13:46:47.437337 #21456]  INFO -- :   Parameters: {"id"=>"17"}
+I, [2021-04-17T13:46:47.685387 #21456]  INFO -- :   Rendered books/_book_lists.html.erb (2.3ms)
+I, [2021-04-17T13:46:47.685645 #21456]  INFO -- :   Rendered categories/show.html.erb within layouts/application (3.0ms)
+I, [2021-04-17T13:46:47.688323 #21456]  INFO -- :   Rendered layouts/_nav_social.html.erb (0.5ms)
+I, [2021-04-17T13:46:47.688809 #21456]  INFO -- : Completed 200 OK in 251ms (Views: 6.6ms)
+I, [2021-04-17T13:46:47.950965 #21456]  INFO -- : Started GET "/categories/18" for 54.89.45.74 at 2021-04-17 13:46:47 +0530
+I, [2021-04-17T13:46:47.952597 #21456]  INFO -- : Processing by CategoriesController#show as HTML
+I, [2021-04-17T13:46:47.952742 #21456]  INFO -- :   Parameters: {"id"=>"18"}
+I, [2021-04-17T13:46:48.263748 #21456]  INFO -- :   Rendered books/_book_lists.html.erb (14.3ms)
+I, [2021-04-17T13:46:48.263973 #21456]  INFO -- :   Rendered categories/show.html.erb within layouts/application (15.0ms)
+I, [2021-04-17T13:46:48.266174 #21456]  INFO -- :   Rendered layouts/_nav_social.html.erb (0.2ms)
+I, [2021-04-17T13:46:48.266576 #21456]  INFO -- : Completed 200 OK in 314ms (Views: 18.0ms)
+I, [2021-04-17T13:48:48.827432 #21456]  INFO -- : Started GET "/categories/19" for 54.89.45.74 at 2021-04-17 13:48:48 +0530
+I, [2021-04-17T13:48:48.829260 #21456]  INFO -- : Processing by CategoriesController#show as HTML
+I, [2021-04-17T13:48:48.829324 #21456]  INFO -- :   Parameters: {"id"=>"19"}
+I, [2021-04-17T13:48:49.239956 #21456]  INFO -- :   Rendered books/_book_lists.html.erb (21.7ms)
+I, [2021-04-17T13:48:49.240612 #21456]  INFO -- :   Rendered categories/show.html.erb within layouts/application (22.3ms)
+I, [2021-04-17T13:48:49.242983 #21456]  INFO -- :   Rendered layouts/_nav_social.html.erb (0.6ms)
+I, [2021-04-17T13:48:49.243363 #21456]  INFO -- : Completed 200 OK in 414ms (Views: 25.7ms)
+I, [2021-04-17T13:48:49.516619 #21456]  INFO -- : Started GET "/categories/20" for 54.89.45.74 at 2021-04-17 13:48:49 +0530
+I, [2021-04-17T13:48:49.517967 #21456]  INFO -- : Processing by CategoriesController#show as HTML
+I, [2021-04-17T13:48:49.518025 #21456]  INFO -- :   Parameters: {"id"=>"20"}
+I, [2021-04-17T13:48:49.859909 #21456]  INFO -- :   Rendered books/_book_lists.html.erb (2.3ms)
+I, [2021-04-17T13:48:49.860103 #21456]  INFO -- :   Rendered categories/show.html.erb within layouts/application (2.9ms)
+I, [2021-04-17T13:48:49.862529 #21456]  INFO -- :   Rendered layouts/_nav_social.html.erb (0.2ms)
+I, [2021-04-17T13:48:49.862857 #21456]  INFO -- : Completed 200 OK in 344ms (Views: 5.9ms)
+I, [2021-04-17T13:49:50.135026 #21456]  INFO -- : Started GET "/categories/21" for 54.89.45.74 at 2021-04-17 13:49:50 +0530
+I, [2021-04-17T13:49:50.136763 #21456]  INFO -- : Processing by CategoriesController#show as HTML
+I, [2021-04-17T13:49:50.136818 #21456]  INFO -- :   Parameters: {"id"=>"21"}
+I, [2021-04-17T13:49:50.377132 #21456]  INFO -- :   Rendered books/_book_lists.html.erb (1.7ms)
+I, [2021-04-17T13:49:50.377329 #21456]  INFO -- :   Rendered categories/show.html.erb within layouts/application (2.5ms)
+I, [2021-04-17T13:49:50.382938 #21456]  INFO -- :   Rendered layouts/_nav_social.html.erb (0.2ms)
+I, [2021-04-17T13:49:50.383280 #21456]  INFO -- : Completed 200 OK in 246ms (Views: 8.8ms)
+I, [2021-04-17T13:49:50.629233 #21456]  INFO -- : Started GET "/categories/22" for 54.89.45.74 at 2021-04-17 13:49:50 +0530
+I, [2021-04-17T13:49:50.630991 #21456]  INFO -- : Processing by CategoriesController#show as HTML
+I, [2021-04-17T13:49:50.631049 #21456]  INFO -- :   Parameters: {"id"=>"22"}
+I, [2021-04-17T13:49:51.629278 #21456]  INFO -- :   Rendered books/_book_lists.html.erb (44.7ms)
+I, [2021-04-17T13:49:51.649600 #21456]  INFO -- :   Rendered categories/show.html.erb within layouts/application (65.6ms)
+I, [2021-04-17T13:49:51.652565 #21456]  INFO -- :   Rendered layouts/_nav_social.html.erb (0.3ms)
+I, [2021-04-17T13:49:51.652943 #21456]  INFO -- : Completed 200 OK in 1022ms (Views: 69.3ms)
+I, [2021-04-17T13:50:51.929548 #21456]  INFO -- : Started GET "/categories/23" for 54.89.45.74 at 2021-04-17 13:50:51 +0530
+I, [2021-04-17T13:50:51.931347 #21456]  INFO -- : Processing by CategoriesController#show as HTML
+I, [2021-04-17T13:50:51.931428 #21456]  INFO -- :   Parameters: {"id"=>"23"}
+I, [2021-04-17T13:50:52.158411 #21456]  INFO -- :   Rendered books/_book_lists.html.erb (2.3ms)
+I, [2021-04-17T13:50:52.158607 #21456]  INFO -- :   Rendered categories/show.html.erb within layouts/application (2.8ms)
+I, [2021-04-17T13:50:52.160913 #21456]  INFO -- :   Rendered layouts/_nav_social.html.erb (0.2ms)
+I, [2021-04-17T13:50:52.161255 #21456]  INFO -- : Completed 200 OK in 230ms (Views: 5.8ms)
+I, [2021-04-17T13:50:52.416442 #21456]  INFO -- : Started GET "/categories/24" for 54.89.45.74 at 2021-04-17 13:50:52 +0530
+I, [2021-04-17T13:50:52.418004 #21456]  INFO -- : Processing by CategoriesController#show as HTML
+I, [2021-04-17T13:50:52.418060 #21456]  INFO -- :   Parameters: {"id"=>"24"}
+I, [2021-04-17T13:50:52.875829 #21456]  INFO -- :   Rendered books/_book_lists.html.erb (11.6ms)
+I, [2021-04-17T13:50:52.876038 #21456]  INFO -- :   Rendered categories/show.html.erb within layouts/application (12.1ms)
+I, [2021-04-17T13:50:52.926167 #21456]  INFO -- :   Rendered layouts/_nav_social.html.erb (0.5ms)
+I, [2021-04-17T13:50:52.927101 #21456]  INFO -- : Completed 200 OK in 508ms (Views: 63.3ms)
+I, [2021-04-17T13:51:53.178394 #21456]  INFO -- : Started GET "/categories/25" for 54.89.45.74 at 2021-04-17 13:51:53 +0530
+I, [2021-04-17T13:51:53.180136 #21456]  INFO -- : Processing by CategoriesController#show as HTML
+I, [2021-04-17T13:51:53.180191 #21456]  INFO -- :   Parameters: {"id"=>"25"}
+I, [2021-04-17T13:51:53.470935 #21456]  INFO -- :   Rendered books/_book_lists.html.erb (16.3ms)
+I, [2021-04-17T13:51:53.471138 #21456]  INFO -- :   Rendered categories/show.html.erb within layouts/application (17.1ms)
+I, [2021-04-17T13:51:53.472978 #21456]  INFO -- :   Rendered layouts/_nav_social.html.erb (0.2ms)
+I, [2021-04-17T13:51:53.473329 #21456]  INFO -- : Completed 200 OK in 293ms (Views: 19.6ms)
+I, [2021-04-17T13:51:53.727027 #21456]  INFO -- : Started GET "/categories/26" for 54.89.45.74 at 2021-04-17 13:51:53 +0530
+I, [2021-04-17T13:51:53.728724 #21456]  INFO -- : Processing by CategoriesController#show as HTML
+I, [2021-04-17T13:51:53.728780 #21456]  INFO -- :   Parameters: {"id"=>"26"}
+I, [2021-04-17T13:51:53.971927 #21456]  INFO -- :   Rendered books/_book_lists.html.erb (1.9ms)
+I, [2021-04-17T13:51:53.972104 #21456]  INFO -- :   Rendered categories/show.html.erb within layouts/application (2.4ms)
+I, [2021-04-17T13:51:53.980819 #21456]  INFO -- :   Rendered layouts/_nav_social.html.erb (0.3ms)
+I, [2021-04-17T13:51:53.981209 #21456]  INFO -- : Completed 200 OK in 252ms (Views: 11.8ms)
+I, [2021-04-17T13:52:54.231778 #21456]  INFO -- : Started GET "/categories/27" for 54.89.45.74 at 2021-04-17 13:52:54 +0530
+I, [2021-04-17T13:52:54.233075 #21456]  INFO -- : Processing by CategoriesController#show as HTML
+I, [2021-04-17T13:52:54.233129 #21456]  INFO -- :   Parameters: {"id"=>"27"}
+I, [2021-04-17T13:52:54.481494 #21456]  INFO -- :   Rendered books/_book_lists.html.erb (1.8ms)
+I, [2021-04-17T13:52:54.481679 #21456]  INFO -- :   Rendered categories/show.html.erb within layouts/application (2.3ms)
+I, [2021-04-17T13:52:54.484021 #21456]  INFO -- :   Rendered layouts/_nav_social.html.erb (0.2ms)
+I, [2021-04-17T13:52:54.484362 #21456]  INFO -- : Completed 200 OK in 251ms (Views: 5.8ms)
+I, [2021-04-17T13:53:54.747089 #21456]  INFO -- : Started GET "/categories/28" for 54.89.45.74 at 2021-04-17 13:53:54 +0530
+I, [2021-04-17T13:53:54.748846 #21456]  INFO -- : Processing by CategoriesController#show as HTML
+I, [2021-04-17T13:53:54.748903 #21456]  INFO -- :   Parameters: {"id"=>"28"}
+I, [2021-04-17T13:53:54.976362 #21456]  INFO -- :   Rendered books/_book_lists.html.erb (1.9ms)
+I, [2021-04-17T13:53:54.976575 #21456]  INFO -- :   Rendered categories/show.html.erb within layouts/application (2.4ms)
+I, [2021-04-17T13:53:54.978274 #21456]  INFO -- :   Rendered layouts/_nav_social.html.erb (0.2ms)
+I, [2021-04-17T13:53:54.978632 #21456]  INFO -- : Completed 200 OK in 229ms (Views: 4.8ms)
+I, [2021-04-17T13:53:55.226395 #21456]  INFO -- : Started GET "/categories/29" for 54.89.45.74 at 2021-04-17 13:53:55 +0530
+I, [2021-04-17T13:53:55.228017 #21456]  INFO -- : Processing by CategoriesController#show as HTML
+I, [2021-04-17T13:53:55.228073 #21456]  INFO -- :   Parameters: {"id"=>"29"}
+I, [2021-04-17T13:53:56.056006 #21456]  INFO -- :   Rendered books/_book_lists.html.erb (8.6ms)
+I, [2021-04-17T13:53:56.056203 #21456]  INFO -- :   Rendered categories/show.html.erb within layouts/application (9.1ms)
+I, [2021-04-17T13:53:56.067635 #21456]  INFO -- :   Rendered layouts/_nav_social.html.erb (0.2ms)
+I, [2021-04-17T13:53:56.068079 #21456]  INFO -- : Completed 200 OK in 840ms (Views: 21.3ms)
+I, [2021-04-17T13:54:56.333299 #21456]  INFO -- : Started GET "/categories/30" for 54.89.45.74 at 2021-04-17 13:54:56 +0530
+I, [2021-04-17T13:54:56.334690 #21456]  INFO -- : Processing by CategoriesController#show as HTML
+I, [2021-04-17T13:54:56.334746 #21456]  INFO -- :   Parameters: {"id"=>"30"}
+I, [2021-04-17T13:54:57.216753 #21456]  INFO -- :   Rendered books/_book_lists.html.erb (8.9ms)
+I, [2021-04-17T13:54:57.216974 #21456]  INFO -- :   Rendered categories/show.html.erb within layouts/application (9.5ms)
+I, [2021-04-17T13:54:57.218463 #21456]  INFO -- :   Rendered layouts/_nav_social.html.erb (0.3ms)
+I, [2021-04-17T13:54:57.218861 #21456]  INFO -- : Completed 200 OK in 884ms (Views: 11.7ms)
+I, [2021-04-17T13:55:57.470099 #21456]  INFO -- : Started GET "/categories/31" for 54.89.45.74 at 2021-04-17 13:55:57 +0530
+I, [2021-04-17T13:55:57.471471 #21456]  INFO -- : Processing by CategoriesController#show as HTML
+I, [2021-04-17T13:55:57.471534 #21456]  INFO -- :   Parameters: {"id"=>"31"}
+I, [2021-04-17T13:55:57.767153 #21456]  INFO -- :   Rendered books/_book_lists.html.erb (8.8ms)
+I, [2021-04-17T13:55:57.767355 #21456]  INFO -- :   Rendered categories/show.html.erb within layouts/application (9.4ms)
+I, [2021-04-17T13:55:57.768966 #21456]  INFO -- :   Rendered layouts/_nav_social.html.erb (0.3ms)
+I, [2021-04-17T13:55:57.769348 #21456]  INFO -- : Completed 200 OK in 298ms (Views: 11.7ms)
+I, [2021-04-17T13:55:58.006673 #21456]  INFO -- : Started GET "/categories/32" for 54.89.45.74 at 2021-04-17 13:55:58 +0530
+I, [2021-04-17T13:55:58.008014 #21456]  INFO -- : Processing by CategoriesController#show as HTML
+I, [2021-04-17T13:55:58.008068 #21456]  INFO -- :   Parameters: {"id"=>"32"}
+I, [2021-04-17T13:55:58.235360 #21456]  INFO -- :   Rendered books/_book_lists.html.erb (2.6ms)
+I, [2021-04-17T13:55:58.235554 #21456]  INFO -- :   Rendered categories/show.html.erb within layouts/application (3.1ms)
+I, [2021-04-17T13:55:58.237026 #21456]  INFO -- :   Rendered layouts/_nav_social.html.erb (0.2ms)
+I, [2021-04-17T13:55:58.237407 #21456]  INFO -- : Completed 200 OK in 229ms (Views: 5.2ms)
+I, [2021-04-17T13:56:58.492991 #21456]  INFO -- : Started GET "/categories/33" for 54.89.45.74 at 2021-04-17 13:56:58 +0530
+I, [2021-04-17T13:56:58.494393 #21456]  INFO -- : Processing by CategoriesController#show as HTML
+I, [2021-04-17T13:56:58.494451 #21456]  INFO -- :   Parameters: {"id"=>"33"}
+I, [2021-04-17T13:56:58.781894 #21456]  INFO -- :   Rendered books/_book_lists.html.erb (6.6ms)
+I, [2021-04-17T13:56:58.782098 #21456]  INFO -- :   Rendered categories/show.html.erb within layouts/application (7.4ms)
+I, [2021-04-17T13:56:58.783635 #21456]  INFO -- :   Rendered layouts/_nav_social.html.erb (0.3ms)
+I, [2021-04-17T13:56:58.783975 #21456]  INFO -- : Completed 200 OK in 289ms (Views: 9.5ms)
+I, [2021-04-17T13:56:59.023895 #21456]  INFO -- : Started GET "/categories/34" for 54.89.45.74 at 2021-04-17 13:56:59 +0530
+I, [2021-04-17T13:56:59.025228 #21456]  INFO -- : Processing by CategoriesController#show as HTML
+I, [2021-04-17T13:56:59.025280 #21456]  INFO -- :   Parameters: {"id"=>"34"}
+I, [2021-04-17T13:56:59.406126 #21456]  INFO -- :   Rendered books/_book_lists.html.erb (9.7ms)
+I, [2021-04-17T13:56:59.406378 #21456]  INFO -- :   Rendered categories/show.html.erb within layouts/application (10.3ms)
+I, [2021-04-17T13:56:59.408083 #21456]  INFO -- :   Rendered layouts/_nav_social.html.erb (0.2ms)
+I, [2021-04-17T13:56:59.408412 #21456]  INFO -- : Completed 200 OK in 383ms (Views: 12.8ms)
+I, [2021-04-17T13:57:59.816373 #21456]  INFO -- : Started GET "/categories/35" for 54.89.45.74 at 2021-04-17 13:57:59 +0530
+I, [2021-04-17T13:57:59.817933 #21456]  INFO -- : Processing by CategoriesController#show as HTML
+I, [2021-04-17T13:57:59.817995 #21456]  INFO -- :   Parameters: {"id"=>"35"}
+I, [2021-04-17T13:58:00.093908 #21456]  INFO -- :   Rendered books/_book_lists.html.erb (2.6ms)
+I, [2021-04-17T13:58:00.094094 #21456]  INFO -- :   Rendered categories/show.html.erb within layouts/application (3.1ms)
+I, [2021-04-17T13:58:00.114921 #21456]  INFO -- :   Rendered layouts/_nav_social.html.erb (0.2ms)
+I, [2021-04-17T13:58:00.115291 #21456]  INFO -- : Completed 200 OK in 297ms (Views: 24.6ms)
+I, [2021-04-17T13:59:00.427166 #21456]  INFO -- : Started GET "/categories/36" for 54.89.45.74 at 2021-04-17 13:59:00 +0530
+I, [2021-04-17T13:59:00.428515 #21456]  INFO -- : Processing by CategoriesController#show as HTML
+I, [2021-04-17T13:59:00.428569 #21456]  INFO -- :   Parameters: {"id"=>"36"}
+I, [2021-04-17T13:59:00.753860 #21456]  INFO -- :   Rendered books/_book_lists.html.erb (6.3ms)
+I, [2021-04-17T13:59:00.754042 #21456]  INFO -- :   Rendered categories/show.html.erb within layouts/application (6.8ms)
+I, [2021-04-17T13:59:00.755722 #21456]  INFO -- :   Rendered layouts/_nav_social.html.erb (0.2ms)
+I, [2021-04-17T13:59:00.756098 #21456]  INFO -- : Completed 200 OK in 327ms (Views: 9.1ms)
+I, [2021-04-17T14:00:01.017853 #21456]  INFO -- : Started GET "/categories/37" for 54.89.45.74 at 2021-04-17 14:00:01 +0530
+I, [2021-04-17T14:00:01.019233 #21456]  INFO -- : Processing by CategoriesController#show as HTML
+I, [2021-04-17T14:00:01.019296 #21456]  INFO -- :   Parameters: {"id"=>"37"}
+I, [2021-04-17T14:00:01.216127 #21456]  INFO -- :   Rendered books/_book_lists.html.erb (2.3ms)
+I, [2021-04-17T14:00:01.216310 #21456]  INFO -- :   Rendered categories/show.html.erb within layouts/application (2.8ms)
+I, [2021-04-17T14:00:01.218065 #21456]  INFO -- :   Rendered layouts/_nav_social.html.erb (0.2ms)
+I, [2021-04-17T14:00:01.218570 #21456]  INFO -- : Completed 200 OK in 199ms (Views: 5.4ms)
+I, [2021-04-17T14:00:01.296139 #21456]  INFO -- : Started GET "/categories/38" for 54.89.45.74 at 2021-04-17 14:00:01 +0530
+I, [2021-04-17T14:00:01.297450 #21456]  INFO -- : Processing by CategoriesController#show as HTML
+I, [2021-04-17T14:00:01.297532 #21456]  INFO -- :   Parameters: {"id"=>"38"}
+I, [2021-04-17T14:00:01.610478 #21456]  INFO -- :   Rendered books/_book_lists.html.erb (9.8ms)
+I, [2021-04-17T14:00:01.610735 #21456]  INFO -- :   Rendered categories/show.html.erb within layouts/application (10.5ms)
+I, [2021-04-17T14:00:01.612405 #21456]  INFO -- :   Rendered layouts/_nav_social.html.erb (0.2ms)
+I, [2021-04-17T14:00:01.612801 #21456]  INFO -- : Completed 200 OK in 315ms (Views: 13.2ms)
+I, [2021-04-17T14:00:01.864689 #21456]  INFO -- : Started GET "/categories/39" for 54.89.45.74 at 2021-04-17 14:00:01 +0530
+I, [2021-04-17T14:00:01.866070 #21456]  INFO -- : Processing by CategoriesController#show as HTML
+I, [2021-04-17T14:00:01.866123 #21456]  INFO -- :   Parameters: {"id"=>"39"}
+I, [2021-04-17T14:00:02.245173 #21456]  INFO -- :   Rendered books/_book_lists.html.erb (8.0ms)
+I, [2021-04-17T14:00:02.245399 #21456]  INFO -- :   Rendered categories/show.html.erb within layouts/application (8.6ms)
+I, [2021-04-17T14:00:02.246824 #21456]  INFO -- :   Rendered layouts/_nav_social.html.erb (0.2ms)
+I, [2021-04-17T14:00:02.247177 #21456]  INFO -- : Completed 200 OK in 381ms (Views: 10.7ms)
+I, [2021-04-17T14:01:02.509920 #21456]  INFO -- : Started GET "/categories/40" for 54.89.45.74 at 2021-04-17 14:01:02 +0530
+I, [2021-04-17T14:01:02.511512 #21456]  INFO -- : Processing by CategoriesController#show as HTML
+I, [2021-04-17T14:01:02.511566 #21456]  INFO -- :   Parameters: {"id"=>"40"}
+I, [2021-04-17T14:01:02.790239 #21456]  INFO -- :   Rendered books/_book_lists.html.erb (8.0ms)
+I, [2021-04-17T14:01:02.790433 #21456]  INFO -- :   Rendered categories/show.html.erb within layouts/application (8.5ms)
+I, [2021-04-17T14:01:02.791862 #21456]  INFO -- :   Rendered layouts/_nav_social.html.erb (0.2ms)
+I, [2021-04-17T14:01:02.792226 #21456]  INFO -- : Completed 200 OK in 280ms (Views: 10.6ms)
+I, [2021-04-17T14:01:03.064567 #21456]  INFO -- : Started GET "/categories/41" for 54.89.45.74 at 2021-04-17 14:01:03 +0530
+I, [2021-04-17T14:01:03.065899 #21456]  INFO -- : Processing by CategoriesController#show as HTML
+I, [2021-04-17T14:01:03.065953 #21456]  INFO -- :   Parameters: {"id"=>"41"}
+I, [2021-04-17T14:01:03.275980 #21456]  INFO -- :   Rendered books/_book_lists.html.erb (2.0ms)
+I, [2021-04-17T14:01:03.276151 #21456]  INFO -- :   Rendered categories/show.html.erb within layouts/application (2.5ms)
+I, [2021-04-17T14:01:03.277635 #21456]  INFO -- :   Rendered layouts/_nav_social.html.erb (0.2ms)
+I, [2021-04-17T14:01:03.277957 #21456]  INFO -- : Completed 200 OK in 212ms (Views: 4.6ms)
+I, [2021-04-17T14:02:03.533326 #21456]  INFO -- : Started GET "/categories/42" for 54.89.45.74 at 2021-04-17 14:02:03 +0530
+I, [2021-04-17T14:02:03.534680 #21456]  INFO -- : Processing by CategoriesController#show as HTML
+I, [2021-04-17T14:02:03.534732 #21456]  INFO -- :   Parameters: {"id"=>"42"}
+I, [2021-04-17T14:02:03.777187 #21456]  INFO -- :   Rendered books/_book_lists.html.erb (1.4ms)
+I, [2021-04-17T14:02:03.777342 #21456]  INFO -- :   Rendered categories/show.html.erb within layouts/application (1.8ms)
+I, [2021-04-17T14:02:03.778878 #21456]  INFO -- :   Rendered layouts/_nav_social.html.erb (0.2ms)
+I, [2021-04-17T14:02:03.779202 #21456]  INFO -- : Completed 200 OK in 244ms (Views: 4.0ms)
+I, [2021-04-17T14:02:04.015484 #21456]  INFO -- : Started GET "/categories/43" for 54.89.45.74 at 2021-04-17 14:02:04 +0530
+I, [2021-04-17T14:02:04.016959 #21456]  INFO -- : Processing by CategoriesController#show as HTML
+I, [2021-04-17T14:02:04.017020 #21456]  INFO -- :   Parameters: {"id"=>"43"}
+I, [2021-04-17T14:02:04.242396 #21456]  INFO -- :   Rendered books/_book_lists.html.erb (1.5ms)
+I, [2021-04-17T14:02:04.242557 #21456]  INFO -- :   Rendered categories/show.html.erb within layouts/application (2.0ms)
+I, [2021-04-17T14:02:04.244417 #21456]  INFO -- :   Rendered layouts/_nav_social.html.erb (0.4ms)
+I, [2021-04-17T14:02:04.244750 #21456]  INFO -- : Completed 200 OK in 227ms (Views: 4.5ms)
+I, [2021-04-17T14:02:04.482459 #21456]  INFO -- : Started GET "/categories/44" for 54.89.45.74 at 2021-04-17 14:02:04 +0530
+I, [2021-04-17T14:02:04.483828 #21456]  INFO -- : Processing by CategoriesController#show as HTML
+I, [2021-04-17T14:02:04.483882 #21456]  INFO -- :   Parameters: {"id"=>"44"}
+I, [2021-04-17T14:02:04.717032 #21456]  INFO -- :   Rendered books/_book_lists.html.erb (1.3ms)
+I, [2021-04-17T14:02:04.717191 #21456]  INFO -- :   Rendered categories/show.html.erb within layouts/application (1.8ms)
+I, [2021-04-17T14:02:04.718686 #21456]  INFO -- :   Rendered layouts/_nav_social.html.erb (0.2ms)
+I, [2021-04-17T14:02:04.719062 #21456]  INFO -- : Completed 200 OK in 235ms (Views: 4.0ms)
+I, [2021-04-17T14:03:04.987737 #21456]  INFO -- : Started GET "/categories/45" for 54.89.45.74 at 2021-04-17 14:03:04 +0530
+I, [2021-04-17T14:03:04.989127 #21456]  INFO -- : Processing by CategoriesController#show as HTML
+I, [2021-04-17T14:03:04.989183 #21456]  INFO -- :   Parameters: {"id"=>"45"}
+I, [2021-04-17T14:03:05.235198 #21456]  INFO -- :   Rendered books/_book_lists.html.erb (3.3ms)
+I, [2021-04-17T14:03:05.235366 #21456]  INFO -- :   Rendered categories/show.html.erb within layouts/application (3.8ms)
+I, [2021-04-17T14:03:05.236921 #21456]  INFO -- :   Rendered layouts/_nav_social.html.erb (0.2ms)
+I, [2021-04-17T14:03:05.237233 #21456]  INFO -- : Completed 200 OK in 248ms (Views: 6.1ms)
+I, [2021-04-17T14:04:05.502479 #21456]  INFO -- : Started GET "/categories/46" for 54.89.45.74 at 2021-04-17 14:04:05 +0530
+I, [2021-04-17T14:04:05.503845 #21456]  INFO -- : Processing by CategoriesController#show as HTML
+I, [2021-04-17T14:04:05.503899 #21456]  INFO -- :   Parameters: {"id"=>"46"}
+I, [2021-04-17T14:04:05.723002 #21456]  INFO -- :   Rendered books/_book_lists.html.erb (1.4ms)
+I, [2021-04-17T14:04:05.723172 #21456]  INFO -- :   Rendered categories/show.html.erb within layouts/application (1.9ms)
+I, [2021-04-17T14:04:05.724763 #21456]  INFO -- :   Rendered layouts/_nav_social.html.erb (0.2ms)
+I, [2021-04-17T14:04:05.725092 #21456]  INFO -- : Completed 200 OK in 221ms (Views: 4.1ms)
+I, [2021-04-17T14:04:05.966609 #21456]  INFO -- : Started GET "/categories/47" for 54.89.45.74 at 2021-04-17 14:04:05 +0530
+I, [2021-04-17T14:04:05.967874 #21456]  INFO -- : Processing by CategoriesController#show as HTML
+I, [2021-04-17T14:04:05.967927 #21456]  INFO -- :   Parameters: {"id"=>"47"}
+I, [2021-04-17T14:04:06.162223 #21456]  INFO -- :   Rendered books/_book_lists.html.erb (1.7ms)
+I, [2021-04-17T14:04:06.162396 #21456]  INFO -- :   Rendered categories/show.html.erb within layouts/application (2.2ms)
+I, [2021-04-17T14:04:06.163891 #21456]  INFO -- :   Rendered layouts/_nav_social.html.erb (0.2ms)
+I, [2021-04-17T14:04:06.164259 #21456]  INFO -- : Completed 200 OK in 196ms (Views: 4.4ms)
+I, [2021-04-17T14:04:06.241678 #21456]  INFO -- : Started GET "/categories/48" for 54.89.45.74 at 2021-04-17 14:04:06 +0530
+I, [2021-04-17T14:04:06.242871 #21456]  INFO -- : Processing by CategoriesController#show as HTML
+I, [2021-04-17T14:04:06.242924 #21456]  INFO -- :   Parameters: {"id"=>"48"}
+I, [2021-04-17T14:04:06.442160 #21456]  INFO -- :   Rendered books/_book_lists.html.erb (2.1ms)
+I, [2021-04-17T14:04:06.442366 #21456]  INFO -- :   Rendered categories/show.html.erb within layouts/application (2.8ms)
+I, [2021-04-17T14:04:06.444158 #21456]  INFO -- :   Rendered layouts/_nav_social.html.erb (0.2ms)
+I, [2021-04-17T14:04:06.444573 #21456]  INFO -- : Completed 200 OK in 201ms (Views: 5.3ms)
+I, [2021-04-17T14:05:06.725825 #21456]  INFO -- : Started GET "/categories/49" for 54.89.45.74 at 2021-04-17 14:05:06 +0530
+I, [2021-04-17T14:05:06.727344 #21456]  INFO -- : Processing by CategoriesController#show as HTML
+I, [2021-04-17T14:05:06.727405 #21456]  INFO -- :   Parameters: {"id"=>"49"}
+I, [2021-04-17T14:05:06.984202 #21456]  INFO -- :   Rendered books/_book_lists.html.erb (2.5ms)
+I, [2021-04-17T14:05:06.984394 #21456]  INFO -- :   Rendered categories/show.html.erb within layouts/application (3.1ms)
+I, [2021-04-17T14:05:06.986335 #21456]  INFO -- :   Rendered layouts/_nav_social.html.erb (0.3ms)
+I, [2021-04-17T14:05:06.986693 #21456]  INFO -- : Completed 200 OK in 259ms (Views: 5.7ms)
+I, [2021-04-17T14:05:07.229801 #21456]  INFO -- : Started GET "/categories/50" for 54.89.45.74 at 2021-04-17 14:05:07 +0530
+I, [2021-04-17T14:05:07.231148 #21456]  INFO -- : Processing by CategoriesController#show as HTML
+I, [2021-04-17T14:05:07.231201 #21456]  INFO -- :   Parameters: {"id"=>"50"}
+I, [2021-04-17T14:05:07.465185 #21456]  INFO -- :   Rendered books/_book_lists.html.erb (2.2ms)
+I, [2021-04-17T14:05:07.465351 #21456]  INFO -- :   Rendered categories/show.html.erb within layouts/application (2.8ms)
+I, [2021-04-17T14:05:07.467069 #21456]  INFO -- :   Rendered layouts/_nav_social.html.erb (0.3ms)
+I, [2021-04-17T14:05:07.467391 #21456]  INFO -- : Completed 200 OK in 236ms (Views: 5.1ms)
+I, [2021-04-17T14:06:07.714580 #21456]  INFO -- : Started GET "/categories/51" for 54.89.45.74 at 2021-04-17 14:06:07 +0530
+I, [2021-04-17T14:06:07.716029 #21456]  INFO -- : Processing by CategoriesController#show as HTML
+I, [2021-04-17T14:06:07.716090 #21456]  INFO -- :   Parameters: {"id"=>"51"}
+I, [2021-04-17T14:06:07.943089 #21456]  INFO -- :   Rendered books/_book_lists.html.erb (1.4ms)
+I, [2021-04-17T14:06:07.943272 #21456]  INFO -- :   Rendered categories/show.html.erb within layouts/application (1.9ms)
+I, [2021-04-17T14:06:07.944857 #21456]  INFO -- :   Rendered layouts/_nav_social.html.erb (0.3ms)
+I, [2021-04-17T14:06:07.945175 #21456]  INFO -- : Completed 200 OK in 229ms (Views: 4.1ms)
+I, [2021-04-17T14:06:08.178637 #21456]  INFO -- : Started GET "/categories/52" for 54.89.45.74 at 2021-04-17 14:06:08 +0530
+I, [2021-04-17T14:06:08.180121 #21456]  INFO -- : Processing by CategoriesController#show as HTML
+I, [2021-04-17T14:06:08.180196 #21456]  INFO -- :   Parameters: {"id"=>"52"}
+I, [2021-04-17T14:06:08.413642 #21456]  INFO -- :   Rendered books/_book_lists.html.erb (1.6ms)
+I, [2021-04-17T14:06:08.413859 #21456]  INFO -- :   Rendered categories/show.html.erb within layouts/application (2.1ms)
+I, [2021-04-17T14:06:08.419583 #21456]  INFO -- :   Rendered layouts/_nav_social.html.erb (0.2ms)
+I, [2021-04-17T14:06:08.420017 #21456]  INFO -- : Completed 200 OK in 240ms (Views: 8.6ms)
+I, [2021-04-17T14:06:08.665398 #21456]  INFO -- : Started GET "/categories/53" for 54.89.45.74 at 2021-04-17 14:06:08 +0530
+I, [2021-04-17T14:06:08.666775 #21456]  INFO -- : Processing by CategoriesController#show as HTML
+I, [2021-04-17T14:06:08.666827 #21456]  INFO -- :   Parameters: {"id"=>"53"}
+I, [2021-04-17T14:06:08.888817 #21456]  INFO -- :   Rendered books/_book_lists.html.erb (1.4ms)
+I, [2021-04-17T14:06:08.889005 #21456]  INFO -- :   Rendered categories/show.html.erb within layouts/application (1.8ms)
+I, [2021-04-17T14:06:08.890970 #21456]  INFO -- :   Rendered layouts/_nav_social.html.erb (0.2ms)
+I, [2021-04-17T14:06:08.891389 #21456]  INFO -- : Completed 200 OK in 224ms (Views: 4.5ms)
+I, [2021-04-17T14:07:17.539589 #39071]  INFO -- : Started GET "/categories/54" for 54.89.45.74 at 2021-04-17 14:07:17 +0530
+I, [2021-04-17T14:07:17.546743 #39071]  INFO -- : Processing by CategoriesController#show as HTML
+I, [2021-04-17T14:07:17.546861 #39071]  INFO -- :   Parameters: {"id"=>"54"}
+I, [2021-04-17T14:07:25.559954 #39071]  INFO -- :   Rendered books/_book_lists.html.erb (13.6ms)
+I, [2021-04-17T14:07:25.560202 #39071]  INFO -- :   Rendered categories/show.html.erb within layouts/application (19.1ms)
+I, [2021-04-17T14:07:25.581176 #39071]  INFO -- :   Rendered layouts/_nav_social.html.erb (1.1ms)
+I, [2021-04-17T14:07:25.581897 #39071]  INFO -- : Completed 200 OK in 8035ms (Views: 99.1ms)
+I, [2021-04-17T14:08:12.427466 #39071]  INFO -- : Started GET "/categories/54" for 54.89.45.74 at 2021-04-17 14:08:12 +0530
+I, [2021-04-17T14:08:12.429155 #39071]  INFO -- : Processing by CategoriesController#show as HTML
+I, [2021-04-17T14:08:12.429219 #39071]  INFO -- :   Parameters: {"id"=>"54"}
+I, [2021-04-17T14:08:12.715029 #39071]  INFO -- :   Rendered books/_book_lists.html.erb (21.7ms)
+I, [2021-04-17T14:08:12.715219 #39071]  INFO -- :   Rendered categories/show.html.erb within layouts/application (22.2ms)
+I, [2021-04-17T14:08:12.716855 #39071]  INFO -- :   Rendered layouts/_nav_social.html.erb (0.2ms)
+I, [2021-04-17T14:08:12.717219 #39071]  INFO -- : Completed 200 OK in 288ms (Views: 24.6ms)
+I, [2021-04-17T14:09:12.986698 #39071]  INFO -- : Started GET "/categories/55" for 54.89.45.74 at 2021-04-17 14:09:12 +0530
+I, [2021-04-17T14:09:12.988094 #39071]  INFO -- : Processing by CategoriesController#show as HTML
+I, [2021-04-17T14:09:12.988156 #39071]  INFO -- :   Parameters: {"id"=>"55"}
+I, [2021-04-17T14:09:13.271135 #39071]  INFO -- :   Rendered books/_book_lists.html.erb (32.0ms)
+I, [2021-04-17T14:09:13.271338 #39071]  INFO -- :   Rendered categories/show.html.erb within layouts/application (32.5ms)
+I, [2021-04-17T14:09:13.273073 #39071]  INFO -- :   Rendered layouts/_nav_social.html.erb (0.2ms)
+I, [2021-04-17T14:09:13.273453 #39071]  INFO -- : Completed 200 OK in 285ms (Views: 34.9ms)
+I, [2021-04-17T14:09:13.527943 #39071]  INFO -- : Started GET "/categories/56" for 54.89.45.74 at 2021-04-17 14:09:13 +0530
+I, [2021-04-17T14:09:13.529370 #39071]  INFO -- : Processing by CategoriesController#show as HTML
+I, [2021-04-17T14:09:13.529470 #39071]  INFO -- :   Parameters: {"id"=>"56"}
+I, [2021-04-17T14:09:13.754360 #39071]  INFO -- :   Rendered books/_book_lists.html.erb (0.5ms)
+I, [2021-04-17T14:09:13.754545 #39071]  INFO -- :   Rendered categories/show.html.erb within layouts/application (1.0ms)
+I, [2021-04-17T14:09:13.756136 #39071]  INFO -- :   Rendered layouts/_nav_social.html.erb (0.3ms)
+I, [2021-04-17T14:09:13.756476 #39071]  INFO -- : Completed 200 OK in 227ms (Views: 3.3ms)
+I, [2021-04-17T14:11:13.665757 #39071]  INFO -- : Started GET "/categories/57" for 54.89.45.74 at 2021-04-17 14:11:13 +0530
+I, [2021-04-17T14:11:13.667267 #39071]  INFO -- : Processing by CategoriesController#show as HTML
+I, [2021-04-17T14:11:13.667329 #39071]  INFO -- :   Parameters: {"id"=>"57"}
+I, [2021-04-17T14:11:13.869252 #39071]  INFO -- :   Rendered books/_book_lists.html.erb (3.4ms)
+I, [2021-04-17T14:11:13.869456 #39071]  INFO -- :   Rendered categories/show.html.erb within layouts/application (3.9ms)
+I, [2021-04-17T14:11:13.871102 #39071]  INFO -- :   Rendered layouts/_nav_social.html.erb (0.3ms)
+I, [2021-04-17T14:11:13.871472 #39071]  INFO -- : Completed 200 OK in 204ms (Views: 6.2ms)
+I, [2021-04-17T14:11:14.280246 #39071]  INFO -- : Started GET "/categories/58" for 54.89.45.74 at 2021-04-17 14:11:14 +0530
+I, [2021-04-17T14:11:14.281741 #39071]  INFO -- : Processing by CategoriesController#show as HTML
+I, [2021-04-17T14:11:14.281794 #39071]  INFO -- :   Parameters: {"id"=>"58"}
+I, [2021-04-17T14:11:14.480008 #39071]  INFO -- :   Rendered books/_book_lists.html.erb (1.3ms)
+I, [2021-04-17T14:11:14.480169 #39071]  INFO -- :   Rendered categories/show.html.erb within layouts/application (1.8ms)
+I, [2021-04-17T14:11:14.481895 #39071]  INFO -- :   Rendered layouts/_nav_social.html.erb (0.2ms)
+I, [2021-04-17T14:11:14.482241 #39071]  INFO -- : Completed 200 OK in 200ms (Views: 4.2ms)
+I, [2021-04-17T14:12:14.751839 #39071]  INFO -- : Started GET "/categories/59" for 54.89.45.74 at 2021-04-17 14:12:14 +0530
+I, [2021-04-17T14:12:14.753319 #39071]  INFO -- : Processing by CategoriesController#show as HTML
+I, [2021-04-17T14:12:14.753380 #39071]  INFO -- :   Parameters: {"id"=>"59"}
+I, [2021-04-17T14:12:14.953075 #39071]  INFO -- :   Rendered books/_book_lists.html.erb (1.3ms)
+I, [2021-04-17T14:12:14.953265 #39071]  INFO -- :   Rendered categories/show.html.erb within layouts/application (1.8ms)
+I, [2021-04-17T14:12:14.954781 #39071]  INFO -- :   Rendered layouts/_nav_social.html.erb (0.2ms)
+I, [2021-04-17T14:12:14.955113 #39071]  INFO -- : Completed 200 OK in 201ms (Views: 4.3ms)
+I, [2021-04-17T14:12:15.188368 #39071]  INFO -- : Started GET "/categories/60" for 54.89.45.74 at 2021-04-17 14:12:15 +0530
+I, [2021-04-17T14:12:15.189799 #39071]  INFO -- : Processing by CategoriesController#show as HTML
+I, [2021-04-17T14:12:15.189854 #39071]  INFO -- :   Parameters: {"id"=>"60"}
+I, [2021-04-17T14:12:15.398158 #39071]  INFO -- :   Rendered books/_book_lists.html.erb (1.8ms)
+I, [2021-04-17T14:12:15.398342 #39071]  INFO -- :   Rendered categories/show.html.erb within layouts/application (2.3ms)
+I, [2021-04-17T14:12:15.400021 #39071]  INFO -- :   Rendered layouts/_nav_social.html.erb (0.2ms)
+I, [2021-04-17T14:12:15.400365 #39071]  INFO -- : Completed 200 OK in 210ms (Views: 4.7ms)
+I, [2021-04-17T14:12:15.631059 #39071]  INFO -- : Started GET "/categories/61" for 54.89.45.74 at 2021-04-17 14:12:15 +0530
+I, [2021-04-17T14:12:15.632419 #39071]  INFO -- : Processing by CategoriesController#show as HTML
+I, [2021-04-17T14:12:15.632481 #39071]  INFO -- :   Parameters: {"id"=>"61"}
+I, [2021-04-17T14:12:15.832178 #39071]  INFO -- :   Rendered books/_book_lists.html.erb (2.1ms)
+I, [2021-04-17T14:12:15.832367 #39071]  INFO -- :   Rendered categories/show.html.erb within layouts/application (2.6ms)
+I, [2021-04-17T14:12:15.833903 #39071]  INFO -- :   Rendered layouts/_nav_social.html.erb (0.2ms)
+I, [2021-04-17T14:12:15.834239 #39071]  INFO -- : Completed 200 OK in 202ms (Views: 4.8ms)
+I, [2021-04-17T14:13:16.416298 #39071]  INFO -- : Started GET "/categories/62" for 54.89.45.74 at 2021-04-17 14:13:16 +0530
+I, [2021-04-17T14:13:16.417790 #39071]  INFO -- : Processing by CategoriesController#show as HTML
+I, [2021-04-17T14:13:16.417851 #39071]  INFO -- :   Parameters: {"id"=>"62"}
+I, [2021-04-17T14:13:16.733639 #39071]  INFO -- :   Rendered books/_book_lists.html.erb (1.9ms)
+I, [2021-04-17T14:13:16.733793 #39071]  INFO -- :   Rendered categories/show.html.erb within layouts/application (2.3ms)
+I, [2021-04-17T14:13:16.735564 #39071]  INFO -- :   Rendered layouts/_nav_social.html.erb (0.5ms)
+I, [2021-04-17T14:13:16.735898 #39071]  INFO -- : Completed 200 OK in 318ms (Views: 4.8ms)
+I, [2021-04-17T14:13:16.979344 #39071]  INFO -- : Started GET "/categories/63" for 54.89.45.74 at 2021-04-17 14:13:16 +0530
+I, [2021-04-17T14:13:16.980716 #39071]  INFO -- : Processing by CategoriesController#show as HTML
+I, [2021-04-17T14:13:16.980769 #39071]  INFO -- :   Parameters: {"id"=>"63"}
+I, [2021-04-17T14:13:17.240322 #39071]  INFO -- :   Rendered books/_book_lists.html.erb (1.9ms)
+I, [2021-04-17T14:13:17.240518 #39071]  INFO -- :   Rendered categories/show.html.erb within layouts/application (2.5ms)
+I, [2021-04-17T14:13:17.242230 #39071]  INFO -- :   Rendered layouts/_nav_social.html.erb (0.2ms)
+I, [2021-04-17T14:13:17.242573 #39071]  INFO -- : Completed 200 OK in 262ms (Views: 4.8ms)
+I, [2021-04-17T14:14:17.880729 #39071]  INFO -- : Started GET "/categories/64" for 54.89.45.74 at 2021-04-17 14:14:17 +0530
+I, [2021-04-17T14:14:17.882075 #39071]  INFO -- : Processing by CategoriesController#show as HTML
+I, [2021-04-17T14:14:17.882128 #39071]  INFO -- :   Parameters: {"id"=>"64"}
+I, [2021-04-17T14:14:18.080501 #39071]  INFO -- :   Rendered books/_book_lists.html.erb (1.5ms)
+I, [2021-04-17T14:14:18.080710 #39071]  INFO -- :   Rendered categories/show.html.erb within layouts/application (2.0ms)
+I, [2021-04-17T14:14:18.082599 #39071]  INFO -- :   Rendered layouts/_nav_social.html.erb (0.3ms)
+I, [2021-04-17T14:14:18.082996 #39071]  INFO -- : Completed 200 OK in 201ms (Views: 4.6ms)
+I, [2021-04-17T14:14:18.151655 #39071]  INFO -- : Started GET "/categories/65" for 54.89.45.74 at 2021-04-17 14:14:18 +0530
+I, [2021-04-17T14:14:18.153018 #39071]  INFO -- : Processing by CategoriesController#show as HTML
+I, [2021-04-17T14:14:18.153080 #39071]  INFO -- :   Parameters: {"id"=>"65"}
+I, [2021-04-17T14:14:18.394699 #39071]  INFO -- :   Rendered books/_book_lists.html.erb (1.4ms)
+I, [2021-04-17T14:14:18.394886 #39071]  INFO -- :   Rendered categories/show.html.erb within layouts/application (1.9ms)
+I, [2021-04-17T14:14:18.396428 #39071]  INFO -- :   Rendered layouts/_nav_social.html.erb (0.2ms)
+I, [2021-04-17T14:14:18.396772 #39071]  INFO -- : Completed 200 OK in 243ms (Views: 4.1ms)
+I, [2021-04-17T14:14:18.646296 #39071]  INFO -- : Started GET "/categories/66" for 54.89.45.74 at 2021-04-17 14:14:18 +0530
+I, [2021-04-17T14:14:18.647800 #39071]  INFO -- : Processing by CategoriesController#show as HTML
+I, [2021-04-17T14:14:18.647861 #39071]  INFO -- :   Parameters: {"id"=>"66"}
+I, [2021-04-17T14:14:18.885800 #39071]  INFO -- :   Rendered books/_book_lists.html.erb (1.4ms)
+I, [2021-04-17T14:14:18.885951 #39071]  INFO -- :   Rendered categories/show.html.erb within layouts/application (1.8ms)
+I, [2021-04-17T14:14:18.887464 #39071]  INFO -- :   Rendered layouts/_nav_social.html.erb (0.2ms)
+I, [2021-04-17T14:14:18.887813 #39071]  INFO -- : Completed 200 OK in 240ms (Views: 3.9ms)
+I, [2021-04-17T14:15:19.210879 #39071]  INFO -- : Started GET "/categories/67" for 54.89.45.74 at 2021-04-17 14:15:19 +0530
+I, [2021-04-17T14:15:19.212244 #39071]  INFO -- : Processing by CategoriesController#show as HTML
+I, [2021-04-17T14:15:19.212297 #39071]  INFO -- :   Parameters: {"id"=>"67"}
+I, [2021-04-17T14:15:19.435035 #39071]  INFO -- :   Rendered books/_book_lists.html.erb (1.4ms)
+I, [2021-04-17T14:15:19.435232 #39071]  INFO -- :   Rendered categories/show.html.erb within layouts/application (1.9ms)
+I, [2021-04-17T14:15:19.436892 #39071]  INFO -- :   Rendered layouts/_nav_social.html.erb (0.2ms)
+I, [2021-04-17T14:15:19.437248 #39071]  INFO -- : Completed 200 OK in 225ms (Views: 4.2ms)
+I, [2021-04-17T14:15:19.673854 #39071]  INFO -- : Started GET "/categories/68" for 54.89.45.74 at 2021-04-17 14:15:19 +0530
+I, [2021-04-17T14:15:19.675206 #39071]  INFO -- : Processing by CategoriesController#show as HTML
+I, [2021-04-17T14:15:19.675259 #39071]  INFO -- :   Parameters: {"id"=>"68"}
+I, [2021-04-17T14:15:19.895849 #39071]  INFO -- :   Rendered books/_book_lists.html.erb (2.4ms)
+I, [2021-04-17T14:15:19.896035 #39071]  INFO -- :   Rendered categories/show.html.erb within layouts/application (2.9ms)
+I, [2021-04-17T14:15:19.897710 #39071]  INFO -- :   Rendered layouts/_nav_social.html.erb (0.3ms)
+I, [2021-04-17T14:15:19.898104 #39071]  INFO -- : Completed 200 OK in 223ms (Views: 5.2ms)
+I, [2021-04-17T14:15:19.990967 #39071]  INFO -- : Started GET "/categories/69" for 54.89.45.74 at 2021-04-17 14:15:19 +0530
+I, [2021-04-17T14:15:19.992386 #39071]  INFO -- : Processing by CategoriesController#show as HTML
+I, [2021-04-17T14:15:19.992455 #39071]  INFO -- :   Parameters: {"id"=>"69"}
+I, [2021-04-17T14:15:20.244832 #39071]  INFO -- :   Rendered books/_book_lists.html.erb (0.6ms)
+I, [2021-04-17T14:15:20.245014 #39071]  INFO -- :   Rendered categories/show.html.erb within layouts/application (1.2ms)
+I, [2021-04-17T14:15:20.246729 #39071]  INFO -- :   Rendered layouts/_nav_social.html.erb (0.2ms)
+I, [2021-04-17T14:15:20.247102 #39071]  INFO -- : Completed 200 OK in 254ms (Views: 3.5ms)
+I, [2021-04-17T14:16:20.873475 #39071]  INFO -- : Started GET "/categories/70" for 54.89.45.74 at 2021-04-17 14:16:20 +0530
+I, [2021-04-17T14:16:20.874816 #39071]  INFO -- : Processing by CategoriesController#show as HTML
+I, [2021-04-17T14:16:20.874870 #39071]  INFO -- :   Parameters: {"id"=>"70"}
+I, [2021-04-17T14:16:21.216736 #39071]  INFO -- :   Rendered books/_book_lists.html.erb (21.8ms)
+I, [2021-04-17T14:16:21.216930 #39071]  INFO -- :   Rendered categories/show.html.erb within layouts/application (22.3ms)
+I, [2021-04-17T14:16:21.218477 #39071]  INFO -- :   Rendered layouts/_nav_social.html.erb (0.2ms)
+I, [2021-04-17T14:16:21.218849 #39071]  INFO -- : Completed 200 OK in 344ms (Views: 24.5ms)
+I, [2021-04-17T14:17:21.470208 #39071]  INFO -- : Started GET "/categories/71" for 54.89.45.74 at 2021-04-17 14:17:21 +0530
+I, [2021-04-17T14:17:21.471623 #39071]  INFO -- : Processing by CategoriesController#show as HTML
+I, [2021-04-17T14:17:21.471678 #39071]  INFO -- :   Parameters: {"id"=>"71"}
+I, [2021-04-17T14:17:21.717119 #39071]  INFO -- :   Rendered books/_book_lists.html.erb (0.5ms)
+I, [2021-04-17T14:17:21.717305 #39071]  INFO -- :   Rendered categories/show.html.erb within layouts/application (1.0ms)
+I, [2021-04-17T14:17:21.718874 #39071]  INFO -- :   Rendered layouts/_nav_social.html.erb (0.2ms)
+I, [2021-04-17T14:17:21.719198 #39071]  INFO -- : Completed 200 OK in 247ms (Views: 3.2ms)
+I, [2021-04-17T14:17:21.969597 #39071]  INFO -- : Started GET "/categories/72" for 54.89.45.74 at 2021-04-17 14:17:21 +0530
+I, [2021-04-17T14:17:21.970952 #39071]  INFO -- : Processing by CategoriesController#show as HTML
+I, [2021-04-17T14:17:21.971006 #39071]  INFO -- :   Parameters: {"id"=>"72"}
+I, [2021-04-17T14:17:22.246059 #39071]  INFO -- :   Rendered books/_book_lists.html.erb (3.3ms)
+I, [2021-04-17T14:17:22.246239 #39071]  INFO -- :   Rendered categories/show.html.erb within layouts/application (4.0ms)
+I, [2021-04-17T14:17:22.247822 #39071]  INFO -- :   Rendered layouts/_nav_social.html.erb (0.2ms)
+I, [2021-04-17T14:17:22.248142 #39071]  INFO -- : Completed 200 OK in 277ms (Views: 6.2ms)
+I, [2021-04-17T14:18:22.516120 #39071]  INFO -- : Started GET "/categories/73" for 54.89.45.74 at 2021-04-17 14:18:22 +0530
+I, [2021-04-17T14:18:22.517461 #39071]  INFO -- : Processing by CategoriesController#show as HTML
+I, [2021-04-17T14:18:22.517514 #39071]  INFO -- :   Parameters: {"id"=>"73"}
+I, [2021-04-17T14:18:22.756209 #39071]  INFO -- :   Rendered books/_book_lists.html.erb (2.3ms)
+I, [2021-04-17T14:18:22.756408 #39071]  INFO -- :   Rendered categories/show.html.erb within layouts/application (2.8ms)
+I, [2021-04-17T14:18:22.757892 #39071]  INFO -- :   Rendered layouts/_nav_social.html.erb (0.2ms)
+I, [2021-04-17T14:18:22.758214 #39071]  INFO -- : Completed 200 OK in 240ms (Views: 5.0ms)
+I, [2021-04-17T14:18:23.024158 #39071]  INFO -- : Started GET "/categories/74" for 54.89.45.74 at 2021-04-17 14:18:23 +0530
+I, [2021-04-17T14:18:23.025503 #39071]  INFO -- : Processing by CategoriesController#show as HTML
+I, [2021-04-17T14:18:23.025565 #39071]  INFO -- :   Parameters: {"id"=>"74"}
+I, [2021-04-17T14:18:23.229300 #39071]  INFO -- :   Rendered books/_book_lists.html.erb (2.5ms)
+I, [2021-04-17T14:18:23.229495 #39071]  INFO -- :   Rendered categories/show.html.erb within layouts/application (3.1ms)
+I, [2021-04-17T14:18:23.231347 #39071]  INFO -- :   Rendered layouts/_nav_social.html.erb (0.4ms)
+I, [2021-04-17T14:18:23.231756 #39071]  INFO -- : Completed 200 OK in 206ms (Views: 5.7ms)
+I, [2021-04-17T14:18:23.495551 #39071]  INFO -- : Started GET "/categories/75" for 54.89.45.74 at 2021-04-17 14:18:23 +0530
+I, [2021-04-17T14:18:23.496953 #39071]  INFO -- : Processing by CategoriesController#show as HTML
+I, [2021-04-17T14:18:23.497011 #39071]  INFO -- :   Parameters: {"id"=>"75"}
+I, [2021-04-17T14:18:23.692035 #39071]  INFO -- :   Rendered books/_book_lists.html.erb (1.5ms)
+I, [2021-04-17T14:18:23.692218 #39071]  INFO -- :   Rendered categories/show.html.erb within layouts/application (2.0ms)
+I, [2021-04-17T14:18:23.694098 #39071]  INFO -- :   Rendered layouts/_nav_social.html.erb (0.5ms)
+I, [2021-04-17T14:18:23.694564 #39071]  INFO -- : Completed 200 OK in 197ms (Views: 4.6ms)
+I, [2021-04-17T14:19:23.974872 #39071]  INFO -- : Started GET "/categories/76" for 54.89.45.74 at 2021-04-17 14:19:23 +0530
+I, [2021-04-17T14:19:23.976412 #39071]  INFO -- : Processing by CategoriesController#show as HTML
+I, [2021-04-17T14:19:23.976466 #39071]  INFO -- :   Parameters: {"id"=>"76"}
+I, [2021-04-17T14:19:24.769914 #39071]  INFO -- :   Rendered books/_book_lists.html.erb (17.9ms)
+I, [2021-04-17T14:19:24.770144 #39071]  INFO -- :   Rendered categories/show.html.erb within layouts/application (18.4ms)
+I, [2021-04-17T14:19:24.775793 #39071]  INFO -- :   Rendered layouts/_nav_social.html.erb (0.3ms)
+I, [2021-04-17T14:19:24.776185 #39071]  INFO -- : Completed 200 OK in 799ms (Views: 24.8ms)
+I, [2021-04-17T14:20:25.033477 #39071]  INFO -- : Started GET "/categories/77" for 54.89.45.74 at 2021-04-17 14:20:25 +0530
+I, [2021-04-17T14:20:25.034853 #39071]  INFO -- : Processing by CategoriesController#show as HTML
+I, [2021-04-17T14:20:25.034906 #39071]  INFO -- :   Parameters: {"id"=>"77"}
+I, [2021-04-17T14:20:25.530783 #39071]  INFO -- :   Rendered books/_book_lists.html.erb (12.6ms)
+I, [2021-04-17T14:20:25.531148 #39071]  INFO -- :   Rendered categories/show.html.erb within layouts/application (13.2ms)
+I, [2021-04-17T14:20:25.544674 #39071]  INFO -- :   Rendered layouts/_nav_social.html.erb (3.4ms)
+I, [2021-04-17T14:20:25.545176 #39071]  INFO -- : Completed 200 OK in 510ms (Views: 27.5ms)
+I, [2021-04-17T14:20:25.628554 #39071]  INFO -- : Started GET "/categories/78" for 54.89.45.74 at 2021-04-17 14:20:25 +0530
+I, [2021-04-17T14:20:25.629958 #39071]  INFO -- : Processing by CategoriesController#show as HTML
+I, [2021-04-17T14:20:25.630012 #39071]  INFO -- :   Parameters: {"id"=>"78"}
+I, [2021-04-17T14:20:25.879666 #39071]  INFO -- :   Rendered books/_book_lists.html.erb (2.1ms)
+I, [2021-04-17T14:20:25.879833 #39071]  INFO -- :   Rendered categories/show.html.erb within layouts/application (2.6ms)
+I, [2021-04-17T14:20:25.881641 #39071]  INFO -- :   Rendered layouts/_nav_social.html.erb (0.2ms)
+I, [2021-04-17T14:20:25.881992 #39071]  INFO -- : Completed 200 OK in 252ms (Views: 5.0ms)
+I, [2021-04-17T14:21:26.529814 #39071]  INFO -- : Started GET "/categories/79" for 54.89.45.74 at 2021-04-17 14:21:26 +0530
+I, [2021-04-17T14:21:26.531201 #39071]  INFO -- : Processing by CategoriesController#show as HTML
+I, [2021-04-17T14:21:26.531255 #39071]  INFO -- :   Parameters: {"id"=>"79"}
+I, [2021-04-17T14:21:27.426990 #39071]  INFO -- :   Rendered books/_book_lists.html.erb (11.2ms)
+I, [2021-04-17T14:21:27.427254 #39071]  INFO -- :   Rendered categories/show.html.erb within layouts/application (11.8ms)
+I, [2021-04-17T14:21:27.448832 #39071]  INFO -- :   Rendered layouts/_nav_social.html.erb (20.4ms)
+I, [2021-04-17T14:21:27.449298 #39071]  INFO -- : Completed 200 OK in 918ms (Views: 34.1ms)
+I, [2021-04-17T14:22:27.726829 #39071]  INFO -- : Started GET "/categories/80" for 54.89.45.74 at 2021-04-17 14:22:27 +0530
+I, [2021-04-17T14:22:27.728168 #39071]  INFO -- : Processing by CategoriesController#show as HTML
+I, [2021-04-17T14:22:27.728221 #39071]  INFO -- :   Parameters: {"id"=>"80"}
+I, [2021-04-17T14:22:28.110861 #39071]  INFO -- :   Rendered books/_book_lists.html.erb (7.9ms)
+I, [2021-04-17T14:22:28.111148 #39071]  INFO -- :   Rendered categories/show.html.erb within layouts/application (8.5ms)
+I, [2021-04-17T14:22:28.112649 #39071]  INFO -- :   Rendered layouts/_nav_social.html.erb (0.2ms)
+I, [2021-04-17T14:22:28.112974 #39071]  INFO -- : Completed 200 OK in 384ms (Views: 10.7ms)
+I, [2021-04-17T14:22:28.281302 #39071]  INFO -- : Started GET "/categories/81" for 54.89.45.74 at 2021-04-17 14:22:28 +0530
+I, [2021-04-17T14:22:28.282693 #39071]  INFO -- : Processing by CategoriesController#show as HTML
+I, [2021-04-17T14:22:28.282745 #39071]  INFO -- :   Parameters: {"id"=>"81"}
+I, [2021-04-17T14:22:28.473556 #39071]  INFO -- :   Rendered books/_book_lists.html.erb (1.3ms)
+I, [2021-04-17T14:22:28.473734 #39071]  INFO -- :   Rendered categories/show.html.erb within layouts/application (1.8ms)
+I, [2021-04-17T14:22:28.475599 #39071]  INFO -- :   Rendered layouts/_nav_social.html.erb (0.2ms)
+I, [2021-04-17T14:22:28.475948 #39071]  INFO -- : Completed 200 OK in 193ms (Views: 4.3ms)
+I, [2021-04-17T14:23:28.966643 #39071]  INFO -- : Started GET "/categories/82" for 54.89.45.74 at 2021-04-17 14:23:28 +0530
+I, [2021-04-17T14:23:28.967991 #39071]  INFO -- : Processing by CategoriesController#show as HTML
+I, [2021-04-17T14:23:28.968044 #39071]  INFO -- :   Parameters: {"id"=>"82"}
+I, [2021-04-17T14:23:29.168245 #39071]  INFO -- :   Rendered books/_book_lists.html.erb (1.4ms)
+I, [2021-04-17T14:23:29.168394 #39071]  INFO -- :   Rendered categories/show.html.erb within layouts/application (1.8ms)
+I, [2021-04-17T14:23:29.169973 #39071]  INFO -- :   Rendered layouts/_nav_social.html.erb (0.2ms)
+I, [2021-04-17T14:23:29.170284 #39071]  INFO -- : Completed 200 OK in 202ms (Views: 4.0ms)
+I, [2021-04-17T14:23:29.409554 #39071]  INFO -- : Started GET "/categories/83" for 54.89.45.74 at 2021-04-17 14:23:29 +0530
+I, [2021-04-17T14:23:29.410976 #39071]  INFO -- : Processing by CategoriesController#show as HTML
+I, [2021-04-17T14:23:29.411047 #39071]  INFO -- :   Parameters: {"id"=>"83"}
+I, [2021-04-17T14:23:29.671772 #39071]  INFO -- :   Rendered books/_book_lists.html.erb (1.4ms)
+I, [2021-04-17T14:23:29.671964 #39071]  INFO -- :   Rendered categories/show.html.erb within layouts/application (2.0ms)
+I, [2021-04-17T14:23:29.673535 #39071]  INFO -- :   Rendered layouts/_nav_social.html.erb (0.2ms)
+I, [2021-04-17T14:23:29.673887 #39071]  INFO -- : Completed 200 OK in 263ms (Views: 4.2ms)
+I, [2021-04-17T14:24:29.936006 #39071]  INFO -- : Started GET "/categories/84" for 54.89.45.74 at 2021-04-17 14:24:29 +0530
+I, [2021-04-17T14:24:29.937394 #39071]  INFO -- : Processing by CategoriesController#show as HTML
+I, [2021-04-17T14:24:29.937451 #39071]  INFO -- :   Parameters: {"id"=>"84"}
+I, [2021-04-17T14:24:30.164539 #39071]  INFO -- :   Rendered books/_book_lists.html.erb (3.3ms)
+I, [2021-04-17T14:24:30.164726 #39071]  INFO -- :   Rendered categories/show.html.erb within layouts/application (3.8ms)
+I, [2021-04-17T14:24:30.166337 #39071]  INFO -- :   Rendered layouts/_nav_social.html.erb (0.2ms)
+I, [2021-04-17T14:24:30.166693 #39071]  INFO -- : Completed 200 OK in 229ms (Views: 6.1ms)
+I, [2021-04-17T14:24:30.416062 #39071]  INFO -- : Started GET "/categories/85" for 54.89.45.74 at 2021-04-17 14:24:30 +0530
+I, [2021-04-17T14:24:30.417468 #39071]  INFO -- : Processing by CategoriesController#show as HTML
+I, [2021-04-17T14:24:30.417556 #39071]  INFO -- :   Parameters: {"id"=>"85"}
+I, [2021-04-17T14:24:30.645161 #39071]  INFO -- :   Rendered books/_book_lists.html.erb (2.3ms)
+I, [2021-04-17T14:24:30.645337 #39071]  INFO -- :   Rendered categories/show.html.erb within layouts/application (2.8ms)
+I, [2021-04-17T14:24:30.646923 #39071]  INFO -- :   Rendered layouts/_nav_social.html.erb (0.2ms)
+I, [2021-04-17T14:24:30.647251 #39071]  INFO -- : Completed 200 OK in 229ms (Views: 5.0ms)
+I, [2021-04-17T14:24:30.880047 #39071]  INFO -- : Started GET "/categories/86" for 54.89.45.74 at 2021-04-17 14:24:30 +0530
+I, [2021-04-17T14:24:30.881461 #39071]  INFO -- : Processing by CategoriesController#show as HTML
+I, [2021-04-17T14:24:30.881539 #39071]  INFO -- :   Parameters: {"id"=>"86"}
+I, [2021-04-17T14:24:31.083655 #39071]  INFO -- :   Rendered books/_book_lists.html.erb (0.5ms)
+I, [2021-04-17T14:24:31.083800 #39071]  INFO -- :   Rendered categories/show.html.erb within layouts/application (0.9ms)
+I, [2021-04-17T14:24:31.085352 #39071]  INFO -- :   Rendered layouts/_nav_social.html.erb (0.2ms)
+I, [2021-04-17T14:24:31.085703 #39071]  INFO -- : Completed 200 OK in 204ms (Views: 3.1ms)
+I, [2021-04-17T14:25:31.345111 #39071]  INFO -- : Started GET "/categories/87" for 54.89.45.74 at 2021-04-17 14:25:31 +0530
+I, [2021-04-17T14:25:31.346495 #39071]  INFO -- : Processing by CategoriesController#show as HTML
+I, [2021-04-17T14:25:31.346551 #39071]  INFO -- :   Parameters: {"id"=>"87"}
+I, [2021-04-17T14:25:31.587363 #39071]  INFO -- :   Rendered books/_book_lists.html.erb (6.3ms)
+I, [2021-04-17T14:25:31.587552 #39071]  INFO -- :   Rendered categories/show.html.erb within layouts/application (6.7ms)
+I, [2021-04-17T14:25:31.589086 #39071]  INFO -- :   Rendered layouts/_nav_social.html.erb (0.3ms)
+I, [2021-04-17T14:25:31.589429 #39071]  INFO -- : Completed 200 OK in 243ms (Views: 9.0ms)
+I, [2021-04-17T14:25:31.869277 #39071]  INFO -- : Started GET "/categories/88" for 54.89.45.74 at 2021-04-17 14:25:31 +0530
+I, [2021-04-17T14:25:31.870677 #39071]  INFO -- : Processing by CategoriesController#show as HTML
+I, [2021-04-17T14:25:31.870731 #39071]  INFO -- :   Parameters: {"id"=>"88"}
+I, [2021-04-17T14:25:32.089119 #39071]  INFO -- :   Rendered books/_book_lists.html.erb (6.1ms)
+I, [2021-04-17T14:25:32.089327 #39071]  INFO -- :   Rendered categories/show.html.erb within layouts/application (6.6ms)
+I, [2021-04-17T14:25:32.090834 #39071]  INFO -- :   Rendered layouts/_nav_social.html.erb (0.2ms)
+I, [2021-04-17T14:25:32.091858 #39071]  INFO -- : Completed 200 OK in 221ms (Views: 9.4ms)
+I, [2021-04-17T14:26:32.575210 #39071]  INFO -- : Started GET "/categories/89" for 54.89.45.74 at 2021-04-17 14:26:32 +0530
+I, [2021-04-17T14:26:32.576647 #39071]  INFO -- : Processing by CategoriesController#show as HTML
+I, [2021-04-17T14:26:32.576708 #39071]  INFO -- :   Parameters: {"id"=>"89"}
+I, [2021-04-17T14:26:32.785326 #39071]  INFO -- :   Rendered books/_book_lists.html.erb (1.5ms)
+I, [2021-04-17T14:26:32.785505 #39071]  INFO -- :   Rendered categories/show.html.erb within layouts/application (2.0ms)
+I, [2021-04-17T14:26:32.787184 #39071]  INFO -- :   Rendered layouts/_nav_social.html.erb (0.3ms)
+I, [2021-04-17T14:26:32.787555 #39071]  INFO -- : Completed 200 OK in 211ms (Views: 4.3ms)
+I, [2021-04-17T14:27:33.038508 #39071]  INFO -- : Started GET "/categories/90" for 54.89.45.74 at 2021-04-17 14:27:33 +0530
+I, [2021-04-17T14:27:33.039934 #39071]  INFO -- : Processing by CategoriesController#show as HTML
+I, [2021-04-17T14:27:33.039987 #39071]  INFO -- :   Parameters: {"id"=>"90"}
+I, [2021-04-17T14:27:33.238088 #39071]  INFO -- :   Rendered books/_book_lists.html.erb (1.3ms)
+I, [2021-04-17T14:27:33.238245 #39071]  INFO -- :   Rendered categories/show.html.erb within layouts/application (1.7ms)
+I, [2021-04-17T14:27:33.239738 #39071]  INFO -- :   Rendered layouts/_nav_social.html.erb (0.2ms)
+I, [2021-04-17T14:27:33.240071 #39071]  INFO -- : Completed 200 OK in 200ms (Views: 3.8ms)
+I, [2021-04-17T14:28:33.491462 #39071]  INFO -- : Started GET "/categories/91" for 54.89.45.74 at 2021-04-17 14:28:33 +0530
+I, [2021-04-17T14:28:33.493026 #39071]  INFO -- : Processing by CategoriesController#show as HTML
+I, [2021-04-17T14:28:33.493086 #39071]  INFO -- :   Parameters: {"id"=>"91"}
+I, [2021-04-17T14:28:33.759295 #39071]  INFO -- :   Rendered books/_book_lists.html.erb (1.5ms)
+I, [2021-04-17T14:28:33.759524 #39071]  INFO -- :   Rendered categories/show.html.erb within layouts/application (2.1ms)
+I, [2021-04-17T14:28:33.761656 #39071]  INFO -- :   Rendered layouts/_nav_social.html.erb (0.3ms)
+I, [2021-04-17T14:28:33.762012 #39071]  INFO -- : Completed 200 OK in 269ms (Views: 4.9ms)
+I, [2021-04-17T14:28:34.016233 #39071]  INFO -- : Started GET "/categories/92" for 54.89.45.74 at 2021-04-17 14:28:34 +0530
+I, [2021-04-17T14:28:34.017774 #39071]  INFO -- : Processing by CategoriesController#show as HTML
+I, [2021-04-17T14:28:34.017834 #39071]  INFO -- :   Parameters: {"id"=>"92"}
+I, [2021-04-17T14:28:34.261755 #39071]  INFO -- :   Rendered books/_book_lists.html.erb (2.2ms)
+I, [2021-04-17T14:28:34.262002 #39071]  INFO -- :   Rendered categories/show.html.erb within layouts/application (2.7ms)
+I, [2021-04-17T14:28:34.263996 #39071]  INFO -- :   Rendered layouts/_nav_social.html.erb (0.3ms)
+I, [2021-04-17T14:28:34.264383 #39071]  INFO -- : Completed 200 OK in 246ms (Views: 5.4ms)
+I, [2021-04-17T14:29:34.535386 #39071]  INFO -- : Started GET "/categories/93" for 54.89.45.74 at 2021-04-17 14:29:34 +0530
+I, [2021-04-17T14:29:34.536886 #39071]  INFO -- : Processing by CategoriesController#show as HTML
+I, [2021-04-17T14:29:34.536941 #39071]  INFO -- :   Parameters: {"id"=>"93"}
+I, [2021-04-17T14:29:34.764679 #39071]  INFO -- :   Rendered books/_book_lists.html.erb (1.6ms)
+I, [2021-04-17T14:29:34.764860 #39071]  INFO -- :   Rendered categories/show.html.erb within layouts/application (2.1ms)
+I, [2021-04-17T14:29:34.766297 #39071]  INFO -- :   Rendered layouts/_nav_social.html.erb (0.2ms)
+I, [2021-04-17T14:29:34.766616 #39071]  INFO -- : Completed 200 OK in 229ms (Views: 4.1ms)
+I, [2021-04-17T14:29:35.025848 #39071]  INFO -- : Started GET "/categories/94" for 54.89.45.74 at 2021-04-17 14:29:35 +0530
+I, [2021-04-17T14:29:35.027194 #39071]  INFO -- : Processing by CategoriesController#show as HTML
+I, [2021-04-17T14:29:35.027247 #39071]  INFO -- :   Parameters: {"id"=>"94"}
+I, [2021-04-17T14:29:35.258970 #39071]  INFO -- :   Rendered books/_book_lists.html.erb (1.6ms)
+I, [2021-04-17T14:29:35.259158 #39071]  INFO -- :   Rendered categories/show.html.erb within layouts/application (2.1ms)
+I, [2021-04-17T14:29:35.260721 #39071]  INFO -- :   Rendered layouts/_nav_social.html.erb (0.3ms)
+I, [2021-04-17T14:29:35.261196 #39071]  INFO -- : Completed 200 OK in 234ms (Views: 4.2ms)
+I, [2021-04-17T14:29:35.515424 #39071]  INFO -- : Started GET "/categories/95" for 54.89.45.74 at 2021-04-17 14:29:35 +0530
+I, [2021-04-17T14:29:35.516982 #39071]  INFO -- : Processing by CategoriesController#show as HTML
+I, [2021-04-17T14:29:35.517036 #39071]  INFO -- :   Parameters: {"id"=>"95"}
+I, [2021-04-17T14:29:35.739243 #39071]  INFO -- :   Rendered books/_book_lists.html.erb (0.5ms)
+I, [2021-04-17T14:29:35.739474 #39071]  INFO -- :   Rendered categories/show.html.erb within layouts/application (1.1ms)
+I, [2021-04-17T14:29:35.741309 #39071]  INFO -- :   Rendered layouts/_nav_social.html.erb (0.4ms)
+I, [2021-04-17T14:29:35.741654 #39071]  INFO -- : Completed 200 OK in 224ms (Views: 3.6ms)
+I, [2021-04-17T14:30:35.996114 #39071]  INFO -- : Started GET "/categories/96" for 54.89.45.74 at 2021-04-17 14:30:35 +0530
+I, [2021-04-17T14:30:35.997541 #39071]  INFO -- : Processing by CategoriesController#show as HTML
+I, [2021-04-17T14:30:35.997597 #39071]  INFO -- :   Parameters: {"id"=>"96"}
+I, [2021-04-17T14:30:36.227093 #39071]  INFO -- :   Rendered books/_book_lists.html.erb (1.4ms)
+I, [2021-04-17T14:30:36.227259 #39071]  INFO -- :   Rendered categories/show.html.erb within layouts/application (1.9ms)
+I, [2021-04-17T14:30:36.228831 #39071]  INFO -- :   Rendered layouts/_nav_social.html.erb (0.2ms)
+I, [2021-04-17T14:30:36.229244 #39071]  INFO -- : Completed 200 OK in 231ms (Views: 4.1ms)
+I, [2021-04-17T14:30:36.477431 #39071]  INFO -- : Started GET "/categories/97" for 54.89.45.74 at 2021-04-17 14:30:36 +0530
+I, [2021-04-17T14:30:36.478844 #39071]  INFO -- : Processing by CategoriesController#show as HTML
+I, [2021-04-17T14:30:36.478903 #39071]  INFO -- :   Parameters: {"id"=>"97"}
+I, [2021-04-17T14:30:36.678183 #39071]  INFO -- :   Rendered books/_book_lists.html.erb (6.1ms)
+I, [2021-04-17T14:30:36.678370 #39071]  INFO -- :   Rendered categories/show.html.erb within layouts/application (6.5ms)
+I, [2021-04-17T14:30:36.679848 #39071]  INFO -- :   Rendered layouts/_nav_social.html.erb (0.2ms)
+I, [2021-04-17T14:30:36.680174 #39071]  INFO -- : Completed 200 OK in 201ms (Views: 8.6ms)
+I, [2021-04-17T14:30:36.759372 #39071]  INFO -- : Started GET "/categories/98" for 54.89.45.74 at 2021-04-17 14:30:36 +0530
+I, [2021-04-17T14:30:36.760827 #39071]  INFO -- : Processing by CategoriesController#show as HTML
+I, [2021-04-17T14:30:36.760881 #39071]  INFO -- :   Parameters: {"id"=>"98"}
+I, [2021-04-17T14:30:36.950506 #39071]  INFO -- :   Rendered books/_book_lists.html.erb (1.6ms)
+I, [2021-04-17T14:30:36.950690 #39071]  INFO -- :   Rendered categories/show.html.erb within layouts/application (2.1ms)
+I, [2021-04-17T14:30:36.952565 #39071]  INFO -- :   Rendered layouts/_nav_social.html.erb (0.2ms)
+I, [2021-04-17T14:30:36.952884 #39071]  INFO -- : Completed 200 OK in 192ms (Views: 4.6ms)
+I, [2021-04-17T14:31:37.219925 #39071]  INFO -- : Started GET "/categories/99" for 54.89.45.74 at 2021-04-17 14:31:37 +0530
+I, [2021-04-17T14:31:37.221297 #39071]  INFO -- : Processing by CategoriesController#show as HTML
+I, [2021-04-17T14:31:37.221351 #39071]  INFO -- :   Parameters: {"id"=>"99"}
+I, [2021-04-17T14:31:37.450618 #39071]  INFO -- :   Rendered books/_book_lists.html.erb (5.8ms)
+I, [2021-04-17T14:31:37.450864 #39071]  INFO -- :   Rendered categories/show.html.erb within layouts/application (6.4ms)
+I, [2021-04-17T14:31:37.453307 #39071]  INFO -- :   Rendered layouts/_nav_social.html.erb (0.2ms)
+I, [2021-04-17T14:31:37.453712 #39071]  INFO -- : Completed 200 OK in 232ms (Views: 9.5ms)
+I, [2021-04-17T14:32:37.702345 #39071]  INFO -- : Started GET "/categories/100" for 54.89.45.74 at 2021-04-17 14:32:37 +0530
+I, [2021-04-17T14:32:37.703742 #39071]  INFO -- : Processing by CategoriesController#show as HTML
+I, [2021-04-17T14:32:37.703795 #39071]  INFO -- :   Parameters: {"id"=>"100"}
+I, [2021-04-17T14:32:38.072126 #39071]  INFO -- :   Rendered books/_book_lists.html.erb (8.5ms)
+I, [2021-04-17T14:32:38.072368 #39071]  INFO -- :   Rendered categories/show.html.erb within layouts/application (9.1ms)
+I, [2021-04-17T14:32:38.073891 #39071]  INFO -- :   Rendered layouts/_nav_social.html.erb (0.2ms)
+I, [2021-04-17T14:32:38.074236 #39071]  INFO -- : Completed 200 OK in 370ms (Views: 11.2ms)
+I, [2021-04-17T14:32:38.305983 #39071]  INFO -- : Started GET "/categories/101" for 54.89.45.74 at 2021-04-17 14:32:38 +0530
+I, [2021-04-17T14:32:38.307425 #39071]  INFO -- : Processing by CategoriesController#show as HTML
+I, [2021-04-17T14:32:38.307481 #39071]  INFO -- :   Parameters: {"id"=>"101"}
+I, [2021-04-17T14:32:38.506129 #39071]  INFO -- :   Rendered books/_book_lists.html.erb (1.6ms)
+I, [2021-04-17T14:32:38.506272 #39071]  INFO -- :   Rendered categories/show.html.erb within layouts/application (2.0ms)
+I, [2021-04-17T14:32:38.507743 #39071]  INFO -- :   Rendered layouts/_nav_social.html.erb (0.2ms)
+I, [2021-04-17T14:32:38.508087 #39071]  INFO -- : Completed 200 OK in 200ms (Views: 4.1ms)
+I, [2021-04-17T14:33:38.762410 #39071]  INFO -- : Started GET "/categories/102" for 54.89.45.74 at 2021-04-17 14:33:38 +0530
+I, [2021-04-17T14:33:38.763768 #39071]  INFO -- : Processing by CategoriesController#show as HTML
+I, [2021-04-17T14:33:38.763821 #39071]  INFO -- :   Parameters: {"id"=>"102"}
+I, [2021-04-17T14:33:38.970286 #39071]  INFO -- :   Rendered books/_book_lists.html.erb (1.8ms)
+I, [2021-04-17T14:33:38.970459 #39071]  INFO -- :   Rendered categories/show.html.erb within layouts/application (2.3ms)
+I, [2021-04-17T14:33:38.972246 #39071]  INFO -- :   Rendered layouts/_nav_social.html.erb (0.2ms)
+I, [2021-04-17T14:33:38.972580 #39071]  INFO -- : Completed 200 OK in 208ms (Views: 4.7ms)
+I, [2021-04-17T14:33:39.227614 #39071]  INFO -- : Started GET "/categories/103" for 54.89.45.74 at 2021-04-17 14:33:39 +0530
+I, [2021-04-17T14:33:39.228889 #39071]  INFO -- : Processing by CategoriesController#show as HTML
+I, [2021-04-17T14:33:39.228941 #39071]  INFO -- :   Parameters: {"id"=>"103"}
+I, [2021-04-17T14:33:39.415769 #39071]  INFO -- :   Rendered books/_book_lists.html.erb (1.3ms)
+I, [2021-04-17T14:33:39.415961 #39071]  INFO -- :   Rendered categories/show.html.erb within layouts/application (1.8ms)
+I, [2021-04-17T14:33:39.417485 #39071]  INFO -- :   Rendered layouts/_nav_social.html.erb (0.2ms)
+I, [2021-04-17T14:33:39.417825 #39071]  INFO -- : Completed 200 OK in 189ms (Views: 4.0ms)
+I, [2021-04-17T14:33:39.490603 #39071]  INFO -- : Started GET "/categories/104" for 54.89.45.74 at 2021-04-17 14:33:39 +0530
+I, [2021-04-17T14:33:39.491988 #39071]  INFO -- : Processing by CategoriesController#show as HTML
+I, [2021-04-17T14:33:39.492041 #39071]  INFO -- :   Parameters: {"id"=>"104"}
+I, [2021-04-17T14:33:39.701388 #39071]  INFO -- :   Rendered books/_book_lists.html.erb (6.2ms)
+I, [2021-04-17T14:33:39.701582 #39071]  INFO -- :   Rendered categories/show.html.erb within layouts/application (6.6ms)
+I, [2021-04-17T14:33:39.703225 #39071]  INFO -- :   Rendered layouts/_nav_social.html.erb (0.2ms)
+I, [2021-04-17T14:33:39.703567 #39071]  INFO -- : Completed 200 OK in 211ms (Views: 8.9ms)
+I, [2021-04-17T14:34:39.959982 #39071]  INFO -- : Started GET "/categories/105" for 54.89.45.74 at 2021-04-17 14:34:39 +0530
+I, [2021-04-17T14:34:39.961626 #39071]  INFO -- : Processing by CategoriesController#show as HTML
+I, [2021-04-17T14:34:39.961688 #39071]  INFO -- :   Parameters: {"id"=>"105"}
+I, [2021-04-17T14:34:40.191186 #39071]  INFO -- :   Rendered books/_book_lists.html.erb (6.2ms)
+I, [2021-04-17T14:34:40.191405 #39071]  INFO -- :   Rendered categories/show.html.erb within layouts/application (6.7ms)
+I, [2021-04-17T14:34:40.192882 #39071]  INFO -- :   Rendered layouts/_nav_social.html.erb (0.3ms)
+I, [2021-04-17T14:34:40.193204 #39071]  INFO -- : Completed 200 OK in 231ms (Views: 8.8ms)
+I, [2021-04-17T14:34:40.919292 #39071]  INFO -- : Started GET "/categories/106" for 54.89.45.74 at 2021-04-17 14:34:40 +0530
+I, [2021-04-17T14:34:40.920657 #39071]  INFO -- : Processing by CategoriesController#show as HTML
+I, [2021-04-17T14:34:40.920710 #39071]  INFO -- :   Parameters: {"id"=>"106"}
+I, [2021-04-17T14:34:41.126586 #39071]  INFO -- :   Rendered books/_book_lists.html.erb (9.4ms)
+I, [2021-04-17T14:34:41.126813 #39071]  INFO -- :   Rendered categories/show.html.erb within layouts/application (9.9ms)
+I, [2021-04-17T14:34:41.128316 #39071]  INFO -- :   Rendered layouts/_nav_social.html.erb (0.2ms)
+I, [2021-04-17T14:34:41.128656 #39071]  INFO -- : Completed 200 OK in 208ms (Views: 12.0ms)
+I, [2021-04-17T14:35:41.382156 #39071]  INFO -- : Started GET "/categories/107" for 54.89.45.74 at 2021-04-17 14:35:41 +0530
+I, [2021-04-17T14:35:41.383630 #39071]  INFO -- : Processing by CategoriesController#show as HTML
+I, [2021-04-17T14:35:41.383684 #39071]  INFO -- :   Parameters: {"id"=>"107"}
+I, [2021-04-17T14:35:41.572823 #39071]  INFO -- :   Rendered books/_book_lists.html.erb (1.4ms)
+I, [2021-04-17T14:35:41.573011 #39071]  INFO -- :   Rendered categories/show.html.erb within layouts/application (1.9ms)
+I, [2021-04-17T14:35:41.574769 #39071]  INFO -- :   Rendered layouts/_nav_social.html.erb (0.3ms)
+I, [2021-04-17T14:35:41.575113 #39071]  INFO -- : Completed 200 OK in 191ms (Views: 4.3ms)
+I, [2021-04-17T14:35:41.814230 #39071]  INFO -- : Started GET "/categories/108" for 54.89.45.74 at 2021-04-17 14:35:41 +0530
+I, [2021-04-17T14:35:41.815595 #39071]  INFO -- : Processing by CategoriesController#show as HTML
+I, [2021-04-17T14:35:41.815655 #39071]  INFO -- :   Parameters: {"id"=>"108"}
+I, [2021-04-17T14:35:42.020522 #39071]  INFO -- :   Rendered books/_book_lists.html.erb (1.4ms)
+I, [2021-04-17T14:35:42.020673 #39071]  INFO -- :   Rendered categories/show.html.erb within layouts/application (1.8ms)
+I, [2021-04-17T14:35:42.022287 #39071]  INFO -- :   Rendered layouts/_nav_social.html.erb (0.2ms)
+I, [2021-04-17T14:35:42.022669 #39071]  INFO -- : Completed 200 OK in 207ms (Views: 4.1ms)
+I, [2021-04-17T14:36:42.343545 #39071]  INFO -- : Started GET "/categories/109" for 54.89.45.74 at 2021-04-17 14:36:42 +0530
+I, [2021-04-17T14:36:42.344897 #39071]  INFO -- : Processing by CategoriesController#show as HTML
+I, [2021-04-17T14:36:42.344951 #39071]  INFO -- :   Parameters: {"id"=>"109"}
+I, [2021-04-17T14:36:42.618979 #39071]  INFO -- :   Rendered books/_book_lists.html.erb (26.9ms)
+I, [2021-04-17T14:36:42.619200 #39071]  INFO -- :   Rendered categories/show.html.erb within layouts/application (27.5ms)
+I, [2021-04-17T14:36:42.621098 #39071]  INFO -- :   Rendered layouts/_nav_social.html.erb (0.2ms)
+I, [2021-04-17T14:36:42.621515 #39071]  INFO -- : Completed 200 OK in 276ms (Views: 30.1ms)
+I, [2021-04-17T14:37:42.872981 #39071]  INFO -- : Started GET "/categories/110" for 54.89.45.74 at 2021-04-17 14:37:42 +0530
+I, [2021-04-17T14:37:42.874386 #39071]  INFO -- : Processing by CategoriesController#show as HTML
+I, [2021-04-17T14:37:42.874451 #39071]  INFO -- :   Parameters: {"id"=>"110"}
+I, [2021-04-17T14:37:43.218971 #39071]  INFO -- :   Rendered books/_book_lists.html.erb (8.3ms)
+I, [2021-04-17T14:37:43.219169 #39071]  INFO -- :   Rendered categories/show.html.erb within layouts/application (8.9ms)
+I, [2021-04-17T14:37:43.220705 #39071]  INFO -- :   Rendered layouts/_nav_social.html.erb (0.3ms)
+I, [2021-04-17T14:37:43.221145 #39071]  INFO -- : Completed 200 OK in 346ms (Views: 11.2ms)
+I, [2021-04-17T14:37:43.299722 #39071]  INFO -- : Started GET "/categories/111" for 54.89.45.74 at 2021-04-17 14:37:43 +0530
+I, [2021-04-17T14:37:43.301275 #39071]  INFO -- : Processing by CategoriesController#show as HTML
+I, [2021-04-17T14:37:43.301330 #39071]  INFO -- :   Parameters: {"id"=>"111"}
+I, [2021-04-17T14:37:43.496461 #39071]  INFO -- :   Rendered books/_book_lists.html.erb (0.7ms)
+I, [2021-04-17T14:37:43.496622 #39071]  INFO -- :   Rendered categories/show.html.erb within layouts/application (1.1ms)
+I, [2021-04-17T14:37:43.498260 #39071]  INFO -- :   Rendered layouts/_nav_social.html.erb (0.3ms)
+I, [2021-04-17T14:37:43.498605 #39071]  INFO -- : Completed 200 OK in 197ms (Views: 3.4ms)
+I, [2021-04-17T14:37:43.733533 #39071]  INFO -- : Started GET "/categories/112" for 54.89.45.74 at 2021-04-17 14:37:43 +0530
+I, [2021-04-17T14:37:43.734898 #39071]  INFO -- : Processing by CategoriesController#show as HTML
+I, [2021-04-17T14:37:43.734956 #39071]  INFO -- :   Parameters: {"id"=>"112"}
+I, [2021-04-17T14:37:43.933856 #39071]  INFO -- :   Rendered books/_book_lists.html.erb (2.6ms)
+I, [2021-04-17T14:37:43.934016 #39071]  INFO -- :   Rendered categories/show.html.erb within layouts/application (3.1ms)
+I, [2021-04-17T14:37:43.935550 #39071]  INFO -- :   Rendered layouts/_nav_social.html.erb (0.2ms)
+I, [2021-04-17T14:37:43.935934 #39071]  INFO -- : Completed 200 OK in 201ms (Views: 5.3ms)
+I, [2021-04-17T14:38:44.193849 #39071]  INFO -- : Started GET "/categories/113" for 54.89.45.74 at 2021-04-17 14:38:44 +0530
+I, [2021-04-17T14:38:44.195227 #39071]  INFO -- : Processing by CategoriesController#show as HTML
+I, [2021-04-17T14:38:44.195281 #39071]  INFO -- :   Parameters: {"id"=>"113"}
+I, [2021-04-17T14:38:44.390478 #39071]  INFO -- :   Rendered books/_book_lists.html.erb (1.6ms)
+I, [2021-04-17T14:38:44.390678 #39071]  INFO -- :   Rendered categories/show.html.erb within layouts/application (2.1ms)
+I, [2021-04-17T14:38:44.392289 #39071]  INFO -- :   Rendered layouts/_nav_social.html.erb (0.2ms)
+I, [2021-04-17T14:38:44.392651 #39071]  INFO -- : Completed 200 OK in 197ms (Views: 4.5ms)
+I, [2021-04-17T14:38:44.623589 #39071]  INFO -- : Started GET "/categories/114" for 54.89.45.74 at 2021-04-17 14:38:44 +0530
+I, [2021-04-17T14:38:44.624982 #39071]  INFO -- : Processing by CategoriesController#show as HTML
+I, [2021-04-17T14:38:44.625067 #39071]  INFO -- :   Parameters: {"id"=>"114"}
+I, [2021-04-17T14:38:44.845010 #39071]  INFO -- :   Rendered books/_book_lists.html.erb (6.2ms)
+I, [2021-04-17T14:38:44.845254 #39071]  INFO -- :   Rendered categories/show.html.erb within layouts/application (6.8ms)
+I, [2021-04-17T14:38:44.846733 #39071]  INFO -- :   Rendered layouts/_nav_social.html.erb (0.2ms)
+I, [2021-04-17T14:38:44.847097 #39071]  INFO -- : Completed 200 OK in 222ms (Views: 8.9ms)
+I, [2021-04-17T14:38:45.116329 #39071]  INFO -- : Started GET "/categories/115" for 54.89.45.74 at 2021-04-17 14:38:45 +0530
+I, [2021-04-17T14:38:45.117716 #39071]  INFO -- : Processing by CategoriesController#show as HTML
+I, [2021-04-17T14:38:45.117770 #39071]  INFO -- :   Parameters: {"id"=>"115"}
+I, [2021-04-17T14:38:45.329747 #39071]  INFO -- :   Rendered books/_book_lists.html.erb (1.3ms)
+I, [2021-04-17T14:38:45.329939 #39071]  INFO -- :   Rendered categories/show.html.erb within layouts/application (1.9ms)
+I, [2021-04-17T14:38:45.331605 #39071]  INFO -- :   Rendered layouts/_nav_social.html.erb (0.2ms)
+I, [2021-04-17T14:38:45.331924 #39071]  INFO -- : Completed 200 OK in 214ms (Views: 4.2ms)
+I, [2021-04-17T14:39:47.076269 #39071]  INFO -- : Started GET "/categories/116" for 54.89.45.74 at 2021-04-17 14:39:47 +0530
+I, [2021-04-17T14:39:47.077773 #39071]  INFO -- : Processing by CategoriesController#show as HTML
+I, [2021-04-17T14:39:47.077835 #39071]  INFO -- :   Parameters: {"id"=>"116"}
+I, [2021-04-17T14:39:47.318988 #39071]  INFO -- :   Rendered books/_book_lists.html.erb (2.3ms)
+I, [2021-04-17T14:39:47.319161 #39071]  INFO -- :   Rendered categories/show.html.erb within layouts/application (2.8ms)
+I, [2021-04-17T14:39:47.320700 #39071]  INFO -- :   Rendered layouts/_nav_social.html.erb (0.3ms)
+I, [2021-04-17T14:39:47.321113 #39071]  INFO -- : Completed 200 OK in 243ms (Views: 4.9ms)
+I, [2021-04-17T14:40:47.571707 #39071]  INFO -- : Started GET "/categories/117" for 54.89.45.74 at 2021-04-17 14:40:47 +0530
+I, [2021-04-17T14:40:47.573099 #39071]  INFO -- : Processing by CategoriesController#show as HTML
+I, [2021-04-17T14:40:47.573155 #39071]  INFO -- :   Parameters: {"id"=>"117"}
+I, [2021-04-17T14:40:47.805959 #39071]  INFO -- :   Rendered books/_book_lists.html.erb (6.9ms)
+I, [2021-04-17T14:40:47.806187 #39071]  INFO -- :   Rendered categories/show.html.erb within layouts/application (7.5ms)
+I, [2021-04-17T14:40:47.807680 #39071]  INFO -- :   Rendered layouts/_nav_social.html.erb (0.2ms)
+I, [2021-04-17T14:40:47.808052 #39071]  INFO -- : Completed 200 OK in 235ms (Views: 9.6ms)
+I, [2021-04-17T14:41:48.066024 #39071]  INFO -- : Started GET "/categories/118" for 54.89.45.74 at 2021-04-17 14:41:48 +0530
+I, [2021-04-17T14:41:48.067443 #39071]  INFO -- : Processing by CategoriesController#show as HTML
+I, [2021-04-17T14:41:48.067499 #39071]  INFO -- :   Parameters: {"id"=>"118"}
+I, [2021-04-17T14:41:48.365261 #39071]  INFO -- :   Rendered books/_book_lists.html.erb (6.1ms)
+I, [2021-04-17T14:41:48.365463 #39071]  INFO -- :   Rendered categories/show.html.erb within layouts/application (6.6ms)
+I, [2021-04-17T14:41:48.366962 #39071]  INFO -- :   Rendered layouts/_nav_social.html.erb (0.2ms)
+I, [2021-04-17T14:41:48.367304 #39071]  INFO -- : Completed 200 OK in 300ms (Views: 8.8ms)
+I, [2021-04-17T14:42:48.627709 #39071]  INFO -- : Started GET "/categories/1?page=2" for 54.89.45.74 at 2021-04-17 14:42:48 +0530
+I, [2021-04-17T14:42:48.629189 #39071]  INFO -- : Processing by CategoriesController#show as HTML
+I, [2021-04-17T14:42:48.629247 #39071]  INFO -- :   Parameters: {"page"=>"2", "id"=>"1"}
+I, [2021-04-17T14:42:51.462173 #39071]  INFO -- :   Rendered books/_book_lists.html.erb (38.7ms)
+I, [2021-04-17T14:42:51.462424 #39071]  INFO -- :   Rendered categories/show.html.erb within layouts/application (39.3ms)
+I, [2021-04-17T14:42:51.467885 #39071]  INFO -- :   Rendered layouts/_nav_social.html.erb (0.3ms)
+I, [2021-04-17T14:42:51.470015 #39071]  INFO -- : Completed 200 OK in 2840ms (Views: 47.3ms)
+I, [2021-04-17T14:43:51.636932 #39071]  INFO -- : Started GET "/categories/1?page=2" for 54.89.45.74 at 2021-04-17 14:43:51 +0530
+I, [2021-04-17T14:43:51.640119 #39071]  INFO -- : Processing by CategoriesController#show as HTML
+I, [2021-04-17T14:43:51.640200 #39071]  INFO -- :   Parameters: {"page"=>"2", "id"=>"1"}
+I, [2021-04-17T14:43:54.656250 #39071]  INFO -- :   Rendered books/_book_lists.html.erb (10.1ms)
+I, [2021-04-17T14:43:54.656476 #39071]  INFO -- :   Rendered categories/show.html.erb within layouts/application (10.7ms)
+I, [2021-04-17T14:43:54.657925 #39071]  INFO -- :   Rendered layouts/_nav_social.html.erb (0.2ms)
+I, [2021-04-17T14:43:54.658268 #39071]  INFO -- : Completed 200 OK in 3018ms (Views: 12.9ms)
+I, [2021-04-17T14:45:54.670396 #39071]  INFO -- : Started GET "/categories/1?page=2" for 54.89.45.74 at 2021-04-17 14:45:54 +0530
+I, [2021-04-17T14:45:54.671773 #39071]  INFO -- : Processing by CategoriesController#show as HTML
+I, [2021-04-17T14:45:54.671828 #39071]  INFO -- :   Parameters: {"page"=>"2", "id"=>"1"}
+I, [2021-04-17T14:46:00.629806 #39071]  INFO -- :   Rendered books/_book_lists.html.erb (38.0ms)
+I, [2021-04-17T14:46:00.630024 #39071]  INFO -- :   Rendered categories/show.html.erb within layouts/application (38.6ms)
+I, [2021-04-17T14:46:00.642650 #39071]  INFO -- :   Rendered layouts/_nav_social.html.erb (0.4ms)
+I, [2021-04-17T14:46:00.643129 #39071]  INFO -- : Completed 200 OK in 5971ms (Views: 52.2ms)
+I, [2021-04-17T14:50:11.973343 #56142]  INFO -- : Started GET "/categories/1?page=2" for 54.89.45.74 at 2021-04-17 14:50:11 +0530
+I, [2021-04-17T14:50:11.980119 #56142]  INFO -- : Processing by CategoriesController#show as HTML
+I, [2021-04-17T14:50:11.980224 #56142]  INFO -- :   Parameters: {"page"=>"2", "id"=>"1"}
+I, [2021-04-17T14:50:17.129763 #56142]  INFO -- :   Rendered books/_book_lists.html.erb (102.5ms)
+I, [2021-04-17T14:50:17.129976 #56142]  INFO -- :   Rendered categories/show.html.erb within layouts/application (104.8ms)
+I, [2021-04-17T14:50:17.150164 #56142]  INFO -- :   Rendered layouts/_nav_social.html.erb (0.9ms)
+I, [2021-04-17T14:50:17.150817 #56142]  INFO -- : Completed 200 OK in 5169ms (Views: 157.9ms)
+I, [2021-04-17T14:58:05.843752 #59364]  INFO -- : Started GET "/categories/1?page=2" for 54.89.45.74 at 2021-04-17 14:58:05 +0530
+I, [2021-04-17T14:58:05.851510 #59364]  INFO -- : Processing by CategoriesController#show as HTML
+I, [2021-04-17T14:58:05.851633 #59364]  INFO -- :   Parameters: {"page"=>"2", "id"=>"1"}
+I, [2021-04-17T14:58:16.137215 #59364]  INFO -- :   Rendered books/_book_lists.html.erb (22.7ms)
+I, [2021-04-17T14:58:16.137451 #59364]  INFO -- :   Rendered categories/show.html.erb within layouts/application (43.7ms)
+I, [2021-04-17T14:58:16.159031 #59364]  INFO -- :   Rendered layouts/_nav_social.html.erb (12.8ms)
+I, [2021-04-17T14:58:16.159811 #59364]  INFO -- : Completed 200 OK in 10308ms (Views: 74.9ms)
+I, [2021-04-20T01:26:56.420326 #664]  INFO -- : Started GET "/" for 117.192.182.98 at 2021-04-20 01:26:56 +0530
+I, [2021-04-20T01:26:56.459790 #664]  INFO -- : Processing by BooksController#index as HTML
+I, [2021-04-20T01:26:57.120295 #664]  INFO -- :   Rendered books/_stats.html.erb (1.2ms)
+I, [2021-04-20T01:26:57.120500 #664]  INFO -- :   Rendered books/index.html.erb within layouts/application (5.8ms)
+I, [2021-04-20T01:26:57.148153 #664]  INFO -- :   Rendered layouts/_nav_social.html.erb (1.0ms)
+I, [2021-04-20T01:26:57.148791 #664]  INFO -- : Completed 200 OK in 688ms (Views: 83.6ms)
+I, [2021-04-21T01:28:22.179992 #22392]  INFO -- : Started GET "/" for 66.249.77.8 at 2021-04-21 01:28:22 +0530
+I, [2021-04-21T01:28:22.211643 #22392]  INFO -- : Processing by BooksController#index as HTML
+I, [2021-04-21T01:28:22.864620 #22392]  INFO -- :   Rendered books/_stats.html.erb (1.1ms)
+I, [2021-04-21T01:28:22.864823 #22392]  INFO -- :   Rendered books/index.html.erb within layouts/application (5.9ms)
+I, [2021-04-21T01:28:22.884782 #22392]  INFO -- :   Rendered layouts/_nav_social.html.erb (1.0ms)
+I, [2021-04-21T01:28:22.885484 #22392]  INFO -- : Completed 200 OK in 673ms (Views: 77.5ms)
+I, [2021-04-21T02:07:12.165442 #38518]  INFO -- : Started GET "/" for 66.249.77.11 at 2021-04-21 02:07:12 +0530
+I, [2021-04-21T02:07:12.171846 #38518]  INFO -- : Processing by BooksController#index as HTML
+I, [2021-04-21T02:07:12.741268 #38518]  INFO -- :   Rendered books/_stats.html.erb (1.0ms)
+I, [2021-04-21T02:07:12.741483 #38518]  INFO -- :   Rendered books/index.html.erb within layouts/application (5.5ms)
+I, [2021-04-21T02:07:12.751273 #38518]  INFO -- :   Rendered layouts/_nav_social.html.erb (0.9ms)
+I, [2021-04-21T02:07:12.751894 #38518]  INFO -- : Completed 200 OK in 580ms (Views: 25.4ms)
+I, [2021-04-21T18:09:52.292033 #11953]  INFO -- : Started GET "/" for 117.230.146.63 at 2021-04-21 18:09:52 +0530
+I, [2021-04-21T18:09:52.326268 #11953]  INFO -- : Processing by BooksController#index as HTML
+I, [2021-04-21T18:09:53.272074 #11953]  INFO -- :   Rendered books/_stats.html.erb (1.4ms)
+I, [2021-04-21T18:09:53.272292 #11953]  INFO -- :   Rendered books/index.html.erb within layouts/application (52.2ms)
+I, [2021-04-21T18:09:53.315939 #11953]  INFO -- :   Rendered layouts/_nav_social.html.erb (1.3ms)
+I, [2021-04-21T18:09:53.316717 #11953]  INFO -- : Completed 200 OK in 989ms (Views: 251.7ms)
+I, [2021-04-22T19:45:39.615068 #62966]  INFO -- : Started GET "/sitemap.xml" for 88.99.150.47 at 2021-04-22 19:45:39 +0530
+F, [2021-04-22T19:45:39.656505 #62966] FATAL -- : 
+ActionController::RoutingError (No route matches [GET] "/sitemap.xml"):
+  actionpack (4.2.11.1) lib/action_dispatch/middleware/debug_exceptions.rb:21:in `call'
+  newrelic_rpm (6.15.0) lib/new_relic/agent/instrumentation/middleware_tracing.rb:101:in `call'
+  actionpack (4.2.11.1) lib/action_dispatch/middleware/show_exceptions.rb:30:in `call'
+  newrelic_rpm (6.15.0) lib/new_relic/agent/instrumentation/middleware_tracing.rb:101:in `call'
+  railties (4.2.11.1) lib/rails/rack/logger.rb:38:in `call_app'
+  railties (4.2.11.1) lib/rails/rack/logger.rb:20:in `block in call'
+  activesupport (4.2.11.1) lib/active_support/tagged_logging.rb:68:in `block in tagged'
+  activesupport (4.2.11.1) lib/active_support/tagged_logging.rb:26:in `tagged'
+  activesupport (4.2.11.1) lib/active_support/tagged_logging.rb:68:in `tagged'
+  railties (4.2.11.1) lib/rails/rack/logger.rb:20:in `call'
+  newrelic_rpm (6.15.0) lib/new_relic/agent/instrumentation/middleware_tracing.rb:101:in `call'
+  actionpack (4.2.11.1) lib/action_dispatch/middleware/request_id.rb:21:in `call'
+  newrelic_rpm (6.15.0) lib/new_relic/agent/instrumentation/middleware_tracing.rb:101:in `call'
+  rack (1.6.13) lib/rack/methodoverride.rb:22:in `call'
+  newrelic_rpm (6.15.0) lib/new_relic/agent/instrumentation/middleware_tracing.rb:101:in `call'
+  rack (1.6.13) lib/rack/runtime.rb:18:in `call'
+  newrelic_rpm (6.15.0) lib/new_relic/agent/instrumentation/middleware_tracing.rb:101:in `call'
+  activesupport (4.2.11.1) lib/active_support/cache/strategy/local_cache_middleware.rb:28:in `call'
+  newrelic_rpm (6.15.0) lib/new_relic/agent/instrumentation/middleware_tracing.rb:101:in `call'
+  rack (1.6.13) lib/rack/sendfile.rb:113:in `call'
+  newrelic_rpm (6.15.0) lib/new_relic/agent/instrumentation/middleware_tracing.rb:101:in `call'
+  railties (4.2.11.1) lib/rails/engine.rb:518:in `call'
+  railties (4.2.11.1) lib/rails/application.rb:165:in `call'
+  newrelic_rpm (6.15.0) lib/new_relic/agent/instrumentation/middleware_tracing.rb:101:in `call'
+  /usr/lib/ruby/vendor_ruby/phusion_passenger/rack/thread_handler_extension.rb:97:in `process_request'
+  /usr/lib/ruby/vendor_ruby/phusion_passenger/request_handler/thread_handler.rb:149:in `accept_and_process_next_request'
+  /usr/lib/ruby/vendor_ruby/phusion_passenger/request_handler/thread_handler.rb:110:in `main_loop'
+  /usr/lib/ruby/vendor_ruby/phusion_passenger/request_handler.rb:415:in `block (3 levels) in start_threads'
+  /usr/lib/ruby/vendor_ruby/phusion_passenger/utils.rb:113:in `block in create_thread_and_abort_on_exception'
+
+
+I, [2021-04-23T07:50:08.065202 #25328]  INFO -- : Started GET "/" for 172.69.28.161 at 2021-04-23 07:50:08 +0530
+I, [2021-04-23T07:50:08.392111 #25328]  INFO -- : Processing by BooksController#index as HTML
+I, [2021-04-23T07:50:53.418040 #25328]  INFO -- :   Rendered books/_stats.html.erb (1.4ms)
+I, [2021-04-23T07:50:53.418275 #25328]  INFO -- :   Rendered books/index.html.erb within layouts/application (55.6ms)
+I, [2021-04-23T07:50:53.466170 #25328]  INFO -- :   Rendered layouts/_nav_social.html.erb (1.4ms)
+I, [2021-04-23T07:50:53.466886 #25328]  INFO -- : Completed 200 OK in 45074ms (Views: 588.5ms)
+I, [2021-04-23T07:50:53.480811 #25328]  INFO -- : Started GET "/" for 172.69.28.161 at 2021-04-23 07:50:53 +0530
+I, [2021-04-23T07:50:53.482236 #25328]  INFO -- : Processing by BooksController#index as HTML
+I, [2021-04-23T07:51:00.721337 #25328]  INFO -- :   Rendered books/_stats.html.erb (0.4ms)
+I, [2021-04-23T07:51:00.721538 #25328]  INFO -- :   Rendered books/index.html.erb within layouts/application (1.5ms)
+I, [2021-04-23T07:51:00.723830 #25328]  INFO -- :   Rendered layouts/_nav_social.html.erb (0.4ms)
+I, [2021-04-23T07:51:00.724253 #25328]  INFO -- : Completed 200 OK in 7242ms (Views: 4.6ms)
+I, [2021-04-23T07:51:00.731900 #25328]  INFO -- : Started GET "/" for 172.69.28.161 at 2021-04-23 07:51:00 +0530
+I, [2021-04-23T07:51:00.734278 #25328]  INFO -- : Processing by BooksController#index as HTML
+I, [2021-04-23T07:51:01.743478 #25328]  INFO -- :   Rendered books/_stats.html.erb (0.4ms)
+I, [2021-04-23T07:51:01.743679 #25328]  INFO -- :   Rendered books/index.html.erb within layouts/application (1.6ms)
+I, [2021-04-23T07:51:01.745790 #25328]  INFO -- :   Rendered layouts/_nav_social.html.erb (0.5ms)
+I, [2021-04-23T07:51:01.746210 #25328]  INFO -- : Completed 200 OK in 1002ms (Views: 4.4ms)
+I, [2021-04-23T07:51:01.751190 #25328]  INFO -- : Started GET "/" for 172.69.28.161 at 2021-04-23 07:51:01 +0530
+I, [2021-04-23T07:51:01.752505 #25328]  INFO -- : Processing by BooksController#index as HTML
+I, [2021-04-23T07:51:16.189553 #25328]  INFO -- :   Rendered books/_stats.html.erb (0.4ms)
+I, [2021-04-23T07:51:16.189741 #25328]  INFO -- :   Rendered books/index.html.erb within layouts/application (1.4ms)
+I, [2021-04-23T07:51:16.191402 #25328]  INFO -- :   Rendered layouts/_nav_social.html.erb (0.3ms)
+I, [2021-04-23T07:51:16.191787 #25328]  INFO -- : Completed 200 OK in 14439ms (Views: 3.8ms)
+I, [2021-04-23T07:51:16.215940 #25328]  INFO -- : Started GET "/" for 2606:4700:1101:0:4092:cc4f:9e67:2e77 at 2021-04-23 07:51:16 +0530
+I, [2021-04-23T07:51:16.217137 #25328]  INFO -- : Processing by BooksController#index as HTML
+I, [2021-04-23T07:51:16.836973 #25328]  INFO -- :   Rendered books/_stats.html.erb (0.4ms)
+I, [2021-04-23T07:51:16.837153 #25328]  INFO -- :   Rendered books/index.html.erb within layouts/application (1.4ms)
+I, [2021-04-23T07:51:16.838906 #25328]  INFO -- :   Rendered layouts/_nav_social.html.erb (0.2ms)
+I, [2021-04-23T07:51:16.839262 #25328]  INFO -- : Completed 200 OK in 622ms (Views: 3.8ms)
+I, [2021-04-23T07:51:16.842916 #25328]  INFO -- : Started GET "/" for 172.69.28.161 at 2021-04-23 07:51:16 +0530
+I, [2021-04-23T07:51:16.844349 #25328]  INFO -- : Processing by BooksController#index as HTML
+I, [2021-04-23T07:51:17.543550 #25328]  INFO -- :   Rendered books/_stats.html.erb (0.4ms)
+I, [2021-04-23T07:51:17.543717 #25328]  INFO -- :   Rendered books/index.html.erb within layouts/application (1.3ms)
+I, [2021-04-23T07:51:17.545457 #25328]  INFO -- :   Rendered layouts/_nav_social.html.erb (0.2ms)
+I, [2021-04-23T07:51:17.545818 #25328]  INFO -- : Completed 200 OK in 701ms (Views: 3.7ms)
+I, [2021-04-23T21:26:12.090833 #19711]  INFO -- : Started GET "/" for 62.231.95.188 at 2021-04-23 21:26:12 +0530
+I, [2021-04-23T21:26:12.118509 #19711]  INFO -- : Processing by BooksController#index as */*
+I, [2021-04-23T21:26:12.790745 #19711]  INFO -- :   Rendered books/_stats.html.erb (1.1ms)
+I, [2021-04-23T21:26:12.790949 #19711]  INFO -- :   Rendered books/index.html.erb within layouts/application (11.2ms)
+I, [2021-04-23T21:26:12.814739 #19711]  INFO -- :   Rendered layouts/_nav_social.html.erb (1.6ms)
+I, [2021-04-23T21:26:12.815509 #19711]  INFO -- : Completed 200 OK in 696ms (Views: 94.3ms)
+I, [2021-04-30T09:00:28.770570 #11798]  INFO -- : Started GET "/" for 66.249.70.67 at 2021-04-30 09:00:28 +0530
+I, [2021-04-30T09:00:28.809469 #11798]  INFO -- : Processing by BooksController#index as HTML
+I, [2021-04-30T09:00:29.974161 #11798]  INFO -- :   Rendered books/_stats.html.erb (1.1ms)
+I, [2021-04-30T09:00:29.974386 #11798]  INFO -- :   Rendered books/index.html.erb within layouts/application (10.1ms)
+I, [2021-04-30T09:00:29.990187 #11798]  INFO -- :   Rendered layouts/_nav_social.html.erb (1.0ms)
+I, [2021-04-30T09:00:29.990854 #11798]  INFO -- : Completed 200 OK in 1181ms (Views: 83.2ms)
+I, [2021-04-30T13:02:26.017864 #37477]  INFO -- : Started GET "/" for 185.29.10.121 at 2021-04-30 13:02:26 +0530
+I, [2021-04-30T13:02:26.025548 #37477]  INFO -- : Processing by BooksController#index as */*
+I, [2021-04-30T13:02:26.734957 #37477]  INFO -- :   Rendered books/_stats.html.erb (1.5ms)
+I, [2021-04-30T13:02:26.735330 #37477]  INFO -- :   Rendered books/index.html.erb within layouts/application (16.7ms)
+I, [2021-04-30T13:02:26.776384 #37477]  INFO -- :   Rendered layouts/_nav_social.html.erb (10.9ms)
+I, [2021-04-30T13:02:26.777198 #37477]  INFO -- : Completed 200 OK in 743ms (Views: 112.2ms)
+I, [2021-04-30T20:11:49.370259 #3044]  INFO -- : Started GET "/" for 157.90.177.231 at 2021-04-30 20:11:49 +0530
+I, [2021-04-30T20:11:49.377183 #3044]  INFO -- : Processing by BooksController#index as HTML
+I, [2021-04-30T20:11:50.799892 #3044]  INFO -- :   Rendered books/_stats.html.erb (1.0ms)
+I, [2021-04-30T20:11:50.800079 #3044]  INFO -- :   Rendered books/index.html.erb within layouts/application (9.9ms)
+I, [2021-04-30T20:11:50.849946 #3044]  INFO -- :   Rendered layouts/_nav_social.html.erb (1.2ms)
+I, [2021-04-30T20:11:50.850668 #3044]  INFO -- : Completed 200 OK in 1465ms (Views: 134.3ms)
+I, [2021-05-01T06:20:53.735844 #42436]  INFO -- : Started GET "/sitemap.xml" for 157.90.177.231 at 2021-05-01 06:20:53 +0530
+F, [2021-05-01T06:20:54.798585 #42436] FATAL -- : 
+ActionController::RoutingError (No route matches [GET] "/sitemap.xml"):
+  actionpack (4.2.11.1) lib/action_dispatch/middleware/debug_exceptions.rb:21:in `call'
+  newrelic_rpm (6.15.0) lib/new_relic/agent/instrumentation/middleware_tracing.rb:101:in `call'
+  actionpack (4.2.11.1) lib/action_dispatch/middleware/show_exceptions.rb:30:in `call'
+  newrelic_rpm (6.15.0) lib/new_relic/agent/instrumentation/middleware_tracing.rb:101:in `call'
+  railties (4.2.11.1) lib/rails/rack/logger.rb:38:in `call_app'
+  railties (4.2.11.1) lib/rails/rack/logger.rb:20:in `block in call'
+  activesupport (4.2.11.1) lib/active_support/tagged_logging.rb:68:in `block in tagged'
+  activesupport (4.2.11.1) lib/active_support/tagged_logging.rb:26:in `tagged'
+  activesupport (4.2.11.1) lib/active_support/tagged_logging.rb:68:in `tagged'
+  railties (4.2.11.1) lib/rails/rack/logger.rb:20:in `call'
+  newrelic_rpm (6.15.0) lib/new_relic/agent/instrumentation/middleware_tracing.rb:101:in `call'
+  actionpack (4.2.11.1) lib/action_dispatch/middleware/request_id.rb:21:in `call'
+  newrelic_rpm (6.15.0) lib/new_relic/agent/instrumentation/middleware_tracing.rb:101:in `call'
+  rack (1.6.13) lib/rack/methodoverride.rb:22:in `call'
+  newrelic_rpm (6.15.0) lib/new_relic/agent/instrumentation/middleware_tracing.rb:101:in `call'
+  rack (1.6.13) lib/rack/runtime.rb:18:in `call'
+  newrelic_rpm (6.15.0) lib/new_relic/agent/instrumentation/middleware_tracing.rb:101:in `call'
+  activesupport (4.2.11.1) lib/active_support/cache/strategy/local_cache_middleware.rb:28:in `call'
+  newrelic_rpm (6.15.0) lib/new_relic/agent/instrumentation/middleware_tracing.rb:101:in `call'
+  rack (1.6.13) lib/rack/sendfile.rb:113:in `call'
+  newrelic_rpm (6.15.0) lib/new_relic/agent/instrumentation/middleware_tracing.rb:101:in `call'
+  railties (4.2.11.1) lib/rails/engine.rb:518:in `call'
+  railties (4.2.11.1) lib/rails/application.rb:165:in `call'
+  newrelic_rpm (6.15.0) lib/new_relic/agent/instrumentation/middleware_tracing.rb:101:in `call'
+  /usr/lib/ruby/vendor_ruby/phusion_passenger/rack/thread_handler_extension.rb:97:in `process_request'
+  /usr/lib/ruby/vendor_ruby/phusion_passenger/request_handler/thread_handler.rb:149:in `accept_and_process_next_request'
+  /usr/lib/ruby/vendor_ruby/phusion_passenger/request_handler/thread_handler.rb:110:in `main_loop'
+  /usr/lib/ruby/vendor_ruby/phusion_passenger/request_handler.rb:415:in `block (3 levels) in start_threads'
+  /usr/lib/ruby/vendor_ruby/phusion_passenger/utils.rb:113:in `block in create_thread_and_abort_on_exception'
+
+
+I, [2021-05-01T08:41:45.988944 #32214]  INFO -- : Started GET "/" for 117.230.131.69 at 2021-05-01 08:41:45 +0530
+I, [2021-05-01T08:41:46.022426 #32214]  INFO -- : Processing by BooksController#index as HTML
+I, [2021-05-01T08:41:47.327726 #32214]  INFO -- :   Rendered books/_stats.html.erb (1.4ms)
+I, [2021-05-01T08:41:47.327972 #32214]  INFO -- :   Rendered books/index.html.erb within layouts/application (60.4ms)
+I, [2021-05-01T08:41:47.451636 #32214]  INFO -- :   Rendered layouts/_nav_social.html.erb (1.2ms)
+I, [2021-05-01T08:41:47.452290 #32214]  INFO -- : Completed 200 OK in 1429ms (Views: 345.9ms)
+I, [2021-05-01T22:15:01.818350 #9431]  INFO -- : Started GET "/" for 124.123.106.37 at 2021-05-01 22:15:01 +0530
+I, [2021-05-01T22:15:01.911436 #9431]  INFO -- : Processing by BooksController#index as HTML
+I, [2021-05-01T22:15:17.350939 #9431]  INFO -- :   Rendered books/_stats.html.erb (1.1ms)
+I, [2021-05-01T22:15:17.351147 #9431]  INFO -- :   Rendered books/index.html.erb within layouts/application (9.9ms)
+I, [2021-05-01T22:15:17.367182 #9431]  INFO -- :   Rendered layouts/_nav_social.html.erb (1.1ms)
+I, [2021-05-01T22:15:17.367969 #9431]  INFO -- : Completed 200 OK in 15456ms (Views: 82.6ms)
+I, [2021-05-01T22:15:42.620665 #9431]  INFO -- : Started GET "/?utf8=%E2%9C%93&search=%E0%B2%AE%E0%B2%82%E0%B2%97%E0%B2%B3%E0%B3%82%E0%B2%B0%E0%B3%81+%E0%B2%B8%E0%B2%AE%E0%B2%BE%E0%B2%9A%E0%B2%BE%E0%B2%B0" for 124.123.106.37 at 2021-05-01 22:15:42 +0530
+I, [2021-05-01T22:15:42.622277 #9431]  INFO -- : Processing by BooksController#index as HTML
+I, [2021-05-01T22:15:42.622344 #9431]  INFO -- :   Parameters: {"utf8"=>"✓", "search"=>"ಮಂಗಳೂರು ಸಮಾಚಾರ"}
+I, [2021-05-01T22:15:42.915858 #9431]  INFO -- :   Rendered books/_book_lists.html.erb (27.2ms)
+I, [2021-05-01T22:15:42.916035 #9431]  INFO -- :   Rendered books/index.html.erb within layouts/application (29.1ms)
+I, [2021-05-01T22:15:42.917928 #9431]  INFO -- :   Rendered layouts/_nav_social.html.erb (0.3ms)
+I, [2021-05-01T22:15:42.918339 #9431]  INFO -- : Completed 200 OK in 296ms (Views: 31.8ms)
+I, [2021-05-01T22:16:09.212306 #9431]  INFO -- : Started GET "/?utf8=%E2%9C%93&search=%E0%B2%AC%E0%B3%87%E0%B2%B8%E0%B3%86%E0%B2%B2%E0%B3%8D+%E0%B2%AE%E0%B2%BF%E0%B2%B7%E0%B2%A8%E0%B3%8D+%E0%B2%87%E0%B2%A8%E0%B3%8D%E0%B2%B8%E0%B3%8D%E0%B2%9F%E0%B2%BF%E0%B2%9F%E0%B3%8D%E0%B2%AF%E0%B3%82%E0%B2%9F%E0%B3%8D" for 124.123.106.37 at 2021-05-01 22:16:09 +0530
+I, [2021-05-01T22:16:09.213729 #9431]  INFO -- : Processing by BooksController#index as HTML
+I, [2021-05-01T22:16:09.213789 #9431]  INFO -- :   Parameters: {"utf8"=>"✓", "search"=>"ಬೇಸೆಲ್ ಮಿಷನ್ ಇನ್ಸ್ಟಿಟ್ಯೂಟ್"}
+I, [2021-05-01T22:16:09.428475 #9431]  INFO -- :   Rendered books/_book_lists.html.erb (1.0ms)
+I, [2021-05-01T22:16:09.428652 #9431]  INFO -- :   Rendered books/index.html.erb within layouts/application (1.9ms)
+I, [2021-05-01T22:16:09.430303 #9431]  INFO -- :   Rendered layouts/_nav_social.html.erb (0.2ms)
+I, [2021-05-01T22:16:09.430671 #9431]  INFO -- : Completed 200 OK in 217ms (Views: 4.3ms)
+I, [2021-05-01T22:16:16.855686 #9431]  INFO -- : Started GET "/?utf8=%E2%9C%93&search=%E0%B2%B9%E0%B2%B0%E0%B3%8D%E0%B2%AE%E0%B2%A8%E0%B3%8D+%E0%B2%AE%E0%B3%8B%E0%B2%97%E0%B3%8D%E0%B2%B2%E0%B2%BF%E0%B2%82%E0%B2%97%E0%B3%8D%09" for 124.123.106.37 at 2021-05-01 22:16:16 +0530
+I, [2021-05-01T22:16:16.857222 #9431]  INFO -- : Processing by BooksController#index as HTML
+I, [2021-05-01T22:16:16.857298 #9431]  INFO -- :   Parameters: {"utf8"=>"✓", "search"=>"ಹರ್ಮನ್ ಮೋಗ್ಲಿಂಗ್\t"}
+I, [2021-05-01T22:16:17.144586 #9431]  INFO -- :   Rendered books/_book_lists.html.erb (1.0ms)
+I, [2021-05-01T22:16:17.144801 #9431]  INFO -- :   Rendered books/index.html.erb within layouts/application (2.0ms)
+I, [2021-05-01T22:16:17.146425 #9431]  INFO -- :   Rendered layouts/_nav_social.html.erb (0.2ms)
+I, [2021-05-01T22:16:17.146793 #9431]  INFO -- : Completed 200 OK in 289ms (Views: 4.3ms)
