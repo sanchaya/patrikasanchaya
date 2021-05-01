@@ -1,11 +1,9 @@
 <div class="main-search">
   <div class="intoduction-text">
     <p align="center">
-      ಅಂತರಜಾಲದಲ್ಲಿರುವ ಡಿಜಿಟಲ್ ಲೈಬ್ರರಿಗಳಲ್ಲಿನ ಕನ್ನಡ ಪುಸ್ತಕಗಳನ್ನು ಹುಡುಕುವುದನ್ನು ಸುಲಭವಾಗಿಸುವುದು ಪುಸ್ತಕ ಸಂಚಯದ ಮುಖ್ಯ ಗುರಿ. 
+      ಕರ್ನಾಟಕದ ಪತ್ರಿಕಾ ಜಗತ್ತು ಕಂಡ ಎಲ್ಲ ಪತ್ರಿಕೆಗಳ ಪರಿವಿಡಿ - ಪತ್ರಿಕಾ ಸಂಚಯ.
       <br />
-      <a href="https://dli.gov.in/" target="_blank"> ಡಿಜಿಟಲ್ ಲೈಬ್ರರಿ ಆಫ್ ಇಂಡಿಯ </a>,   <a href="https://oudl.osmania.ac.in/" target="_blank"> ಓಸ್ಮಾನಿಯ ವಿಶ್ವವಿದ್ಯಾಲಯದ ಡಿಜಿಟಲ್ ಲೈಬ್ರರಿ </a>, ಹಾಗೂ  <a href="https://dli.ernet.in/kanaja/handle/2015/554042" target="_blank">ಕಣಜ‍ ‍‌‌ 
-      ಡಿಜಿಟಲ್ ಲೈಬ್ರರಿಗಳಲ್ಲಿರುವ </a>  ಪುಸ್ತಕಗಳನ್ನು ಈಗ ನೀವಿಲ್ಲಿ ಹುಡುಕಬಹುದು. 
-
+      ಪತ್ರಿಕೆಯ ಹೆಸರು, ಪ್ರಾರಂಭದ ವರ್ಷ, ಪ್ರಕಟಿಸಿದ/ಪ್ರಸರಣೆಯ ಸ್ಥಳ,	ಪ್ರಕಾಶಕರು,	ಸ್ಥಾಪಕ ಸಂಪಾದಕ/ಸಂಪಾದಕ,	ಆವರ್ತಕತೆ,	ಭಾಷೆ‌ಯ ಆಧಾರದ ಮೇಲೆ ಪತ್ರಿಕೆಗಳನ್ನು ಹುಡುಕಬಹುದಾಗಿದೆ.
     </p>
   </div>
   <hr />
@@ -13,7 +11,8 @@
     <%= form_tag root_path, method: :get do %>
     <%= search_field_tag "search" ,params[:search], autofocus: params[:search] ? false : true , class: 'form-control kan-ime', placeholder: "#{t(:huduku)}" %>
     <% end %>
-    <p class="search-bottom-text">   ಪುಸ್ತಕ ಸಂಚಯಕ್ಕೆ ಅವಶ್ಯವಿರುವ ಮಾನವ ಸಂಪನ್ಮೂಲವನ್ನು <a href="https://samooha.sanchaya.net" target="_blank"> ಸಮೂಹ ಸಂಚಯದ </a> ಕ್ರೌಡ್‌ಸೋರ್ಸಿಂಗ್ ಮೂಲಕ ಪಡೆದುಕೊಳ್ಳಲಾಗಿದೆ. ನಮ್ಮ ಯೋಜನೆಗಳಲ್ಲಿ ಭಾಗವಹಿಸಲು ಇಚ್ಛಿಸುವವರು ‍‍ಸಂಚಯ ಸಂಪರ್ಕಿಸಬಹುದು.
+    <p class="search-bottom-text">ಈ ಯೋಜನೆ ಸಮುದಾಯದ ಕೆಲಸವಾಗಿದ್ದು, ಇಲ್ಲಿರುವ ಪತ್ರಿಕೆಗಳ ಮಾಹಿತಿ ಕನ್ನಡೀಕರಿಸುವ, ಇಲ್ಲಿ ಲಭ್ಯವಿಲ್ಲದ ಪತ್ರಿಕೆಗಳ ಮಾಹಿತಿ ಸೇರಿಸುವ ಕೆಲಸಕ್ಕೆ ನೀವು ಸಂಚಯದೊಂದಿಗೆ ಕೈಜೋಡಿಸಬಹುದಾಗಿದೆ.
+
     </p>
   </div>
   <hr />
@@ -21,9 +20,10 @@
 
 
 <% if params && params[:search] && !params[:search].blank? %>
-<div class="word-lists"> 
+<div class="word-lists">
   <%= render 'book_lists' %>
 </div>
 <% else %>
 <%= render 'stats' %>
 <% end %>
+‍

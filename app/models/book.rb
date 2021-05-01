@@ -26,8 +26,8 @@ class Book
     return response.body
   end
 
-  def self.category_books(id)
-    full_url = "#{BASE_URL}/categories/#{id}"
+  def self.category_books(year)
+    full_url = "#{BASE_URL}/categories/#{year}"
     parsed_url = URI.parse(URI.encode(full_url))
     response = HTTParty.get parsed_url
     return response.body
