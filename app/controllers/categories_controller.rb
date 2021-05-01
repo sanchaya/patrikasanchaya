@@ -10,8 +10,8 @@ end
 
 def show
  begin
-  books = JSON.parse(Book.category_books(params[:id]))
-  @books = Kaminari.paginate_array(books).page(params[:page]).per(8) 
+  books = JSON.parse(Book.category_books(params[:year]))
+  @books = Kaminari.paginate_array(books).page(params[:page]).per(8)
 rescue
   @books = {}
 end

@@ -1,13 +1,13 @@
 <table class="table table-striped">
   <thead>
     <tr>
-      <th> book  </th>
-      <th>  <%= t :author %> </th>
-      <th>  <%= t :author %> </th>
-      <th>  <%= t :publisher %> </th>
-      <th>  <%= t :publisher %> </th>
-      <th>  <%= t :library %> </th>
+      <th>  <‍%= t :name %> </th>
       <th>  <%= t :year %> </th>
+      <th>  <%= t :place %> </th>
+      <th>  <%= t :publisher %> </th>
+      <th>  <%= t :editor %> </th>
+      <th>  <%= t :periodicity %> </th>
+      <th>  <%= t :language %> </th>
     </tr>
   </thead>
   <tbody>
@@ -41,5 +41,5 @@
 <% unless @books.empty? %>
 <div class="apple_pagination">
   <%= paginate @books  %>
-</div> 
+</div>
 <% end %>

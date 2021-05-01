@@ -13,7 +13,7 @@ kn:
   help: 'ಸಹಾಯ'
   contact: 'ಸಂಪರ್ಕಿಸಿ'
   pustaka: 'ಪುಸ್ತಕ'
-  pustaka_sanchaya: 'ಪುಸ್ತಕ ಸಂಚಯ'
+  pustaka_sanchaya: 'ಪತ್ರಿಕಾ ಸಂಚಯ'
   huduku: 'ಹುಡುಕು'
   category: 'ವರ್ಷ'#'ವರ್ಗ'
   year: 'ಇಸವಿ'
@@ -25,8 +25,8 @@ kn:
 
   # Home
   book: 'ಪುಸ್ತಕ'
-  name: 'ಪತ್ರಿಕೆ'
-  books: 'ಪುಸ್ತಕಗಳು'
+  name: 'ಪತ್ರಿಕೆ'‍
+  books: 'ಪುಸ್ತಕ‍ಗಳು'
   publisher: 'ಪ್ರಕಾಶಕ'
   publishers: 'ಪ್‍ರಕಾಶಕರು'
   author: 'ಲೇಖಕ/ಕಿ'
