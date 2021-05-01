@@ -25,13 +25,13 @@ kn:
 
   # Home
   book: 'ಪುಸ್ತಕ'
-  name: 'ಪತ್ರಿಕೆ'‍
+  name: 'ಪತ್ರಿಕೆ‍'‍
   books: 'ಪುಸ್ತಕ‍ಗಳು'
   publisher: 'ಪ್ರಕಾಶಕ'
-  publishers: 'ಪ್‍ರಕಾಶಕರು'
+  publishers: 'ಪ್ರಕಾಶಕರು'
   author: 'ಲೇಖಕ/ಕಿ'
   authors: 'ಲೇಖಕ/ಕಿಯರು'
-  library: 'ಲೈಬ್ರರಿ'
+  library: 'ಲೈಬ್ರರಿ'‍
   libraries: 'ಲೈಬ್ರರಿಗಳು'
   year: 'ವರ್ಷ'
   years: 'ವರ್ಷಗಳು'
